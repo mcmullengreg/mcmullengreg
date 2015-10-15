@@ -75,10 +75,11 @@ main{
 	}
 	
 	section{
-		width:75%;
+		width:100%;
 		display: block;
 		background:white;
 		padding:1.5rem;
+		margin: 0 auto;
 		@media(min-width:992px){
 			display: inline-block;
 		}
