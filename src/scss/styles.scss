@@ -1,0 +1,94 @@
+@import 'normalize';
+html{
+	font-size: 62.5%;
+}
+body{
+	background:#e9e9e9;
+	font-size: 1.4rem;
+	line-height: 1.5;
+}
+.sr-only{
+	display: none;
+	visibility: hidden;
+}
+
+nav{
+	display: block;
+	width: 100%;
+	margin:0;
+	padding:0 0;
+	background-color:black;
+	font-size: 3rem;
+	text-align: center;
+	ul{
+		list-style: none;
+		margin:0;
+		padding:0;
+		li{
+			display: block;
+			padding: 0 10px;
+			@media(min-width:992px){
+				display: inline-block;
+			}
+			a{
+				display: block;
+				color:#fff;
+				text-decoration: none;
+				padding:10px;
+				&:hover{
+					background:white;
+					color:black;
+				}
+			}
+		}
+	}
+}
+
+header{
+	display: block;
+	width:100%;
+	margin:0;
+	padding:90px 0 0;	
+	text-align: center;
+	background: black;
+	img{
+		border:solid 1px #ccc;
+		background:white;
+		padding:0.8rem;
+		border-radius: 100%;
+	}
+	h1{
+		margin:0;
+		color:white;
+		padding:10px;
+		font-size: 4.8rem;
+	}
+}
+
+main{
+	margin-top:5rem;
+	width:100%;
+	position: relative;
+	.wrapper{
+		width:65%;
+		margin:0 auto;
+	}
+	
+	section{
+		width:75%;
+		display: block;
+		background:white;
+		padding:1.5rem;
+		@media(min-width:992px){
+			display: inline-block;
+		}
+	}
+	aside{
+		width:25%;
+		display: block;
+		padding:1.5rem;
+		@media(min-width:992px){
+			display: inline-block;
+		}
+	}
+}

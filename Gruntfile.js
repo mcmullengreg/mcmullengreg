@@ -55,14 +55,14 @@ module.exports = function (grunt) {
 					}
 	            ]
             },
-            fontAwesome: {
+            normalize: {
 	            files: [
-                	{
-		                expand: true,
-		                cwd: 'src/vendor/fontawesome/fonts',
-		                src: ['**'],
-		                dest: 'fonts'
-	                }
+		            {
+			            expand:true,
+			            cwd: 'src/vendor/normalize.scss',
+			            src: '_normalize.scss',
+			            dest: 'src/scss'
+		            }
 	            ]
             }
         },
@@ -109,6 +109,5 @@ module.exports = function (grunt) {
 	
 	
 	// Register Tasks
-	grunt.registerTask('dev', ['jshint', 'concat', 'compass', 'copy', 'imagemin']);
-	grunt.registerTask('live', ['dev', 'uglify']);
+	grunt.registerTask('prod', ['jshint', 'concat', 'uglify', 'compass:dist', 'copy', 'imagemin','modernizr']);
 };
