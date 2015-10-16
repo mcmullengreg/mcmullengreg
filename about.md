@@ -8,7 +8,7 @@ Greg McMullen is a husband, dad, dog owner, web developer and [former] swim coac
 
 ##Greg McMullen, Web Developer
 
-In August 2014 Greg joined the Office of University Communications staff at his alma mater, Xavier University (Cincinnati, OH), as a web developer. The job has been a mix of projects so far with his first being a complete design overhaul of the Road to Xavier website, an admitted student portal. This project started on day one and had a quick deadline of October. With help from the team, the project has been a success.
+In August 2014 Greg joined the Office of Marketing and Communications staff at his alma mater, Xavier University (Cincinnati, OH), as a web developer. The job has been a mix of projects so far with his first being a complete design overhaul of the Road to Xavier website, an admitted student portal. This project started on day one and had a quick deadline of October. With help from the team, the project has been a success.
 
 Prior to joining Xavier University, Greg worked for Rose-Hulman Institute of Technology (Terre Haute, IN) as a web assistant and later a web manager. He had a lot of success in growing the social media presence on campus, with the biggest success story being aiding the president in his own social media campaign. Other projects included developing custom macros (for Umbraco: Embedded Twitter Widget and Form Wrangler) and creating a new campus and alumni data map.
 
