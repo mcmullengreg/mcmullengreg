@@ -2,7 +2,7 @@
 title: Gregory McMullen
 email: mcmullen.greg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Testing.
+  Greg McMullen is a husband, dad, dog owner, and a web developer and M.Ed candidate at Xavier University.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: mcmullen.greg
