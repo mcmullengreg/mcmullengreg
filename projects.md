@@ -8,7 +8,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 
 ##Active Projects
 * [Xavier Univeristy](http://www.xavier.edu)
-  * V4 template redevelopment - Working to clean up base code for accessibility and performance
+  * [V4 template redevelopment](_posts/2015-10-20-project-update.md) - Working to clean up base code for accessibility and performance
   * Email template refresh to coincide with V4 update
 * [Menu Maker](http://ourmenumaker.com)
   * Recipe management system for the McMullen family and friends
