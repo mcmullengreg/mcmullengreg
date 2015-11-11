@@ -11,9 +11,7 @@ between a `dependency` and a `devDependency` within `pacakge.json`.
 
 Luckily I'm not the [only person that had no idea](http://stackoverflow.com/questions/19339227/bower-and-devdependencies-vs-dependencies).
 
-* Dependencies
- - Intended for use in production, and implied that it will be required for development purposes too.
-* devDependencies
- - Intended for use in development only. Does not imply that it will be used for a production environment.
+- *Dependencies* - Intended for use in production, and implied that it will be required for development purposes too.
+- *devDependencies* - Intended for use in development only. Does not imply that it will be used for a production environment.
 
 It's times like this I'm thankful that StackOverflow still has good people out there to answer questions instead of bashing people for not knowing.
