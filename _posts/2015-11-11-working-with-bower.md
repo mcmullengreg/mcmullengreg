@@ -5,7 +5,7 @@ date:   2015-11-11 10:09:00
 categories: bower
 ---
 
-While working on the redevelopment for the [Xavier University V4 project](/projects.html). I've determined that I needed to get a better understanding of 
+While working on the redevelopment for the [Xavier University V4 project](/projects). I've determined that I needed to get a better understanding of 
 the various components that I'm using to manage the project. One of the components is [Bower](http://bower.io/). I didn't quite grasp the idea
 between a `dependency` and a `devDependency` within `pacakge.json`.
 
