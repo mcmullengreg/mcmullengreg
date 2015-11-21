@@ -1,12 +1,23 @@
 # Site settings
-title: Gregory McMullen
-email: mcmullen.greg@gmail.com
+
+title: Gregory McMullen # Title of your site
+email: mcmullen.greg@gmail.com # Your contant email
+
 description: > # this means to ignore newlines until "baseurl:"
-  Greg McMullen is a husband, dad, dog owner, and a web developer and M.Ed candidate at Xavier University.
+  Gregory McMullen is a Husband. Dad. Dog owner. Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-twitter_username: mcmullen.greg
-github_username:  mcmullengreg
+url: "http://gregoryamcmullen.com" # the base hostname & protocol for your site
+
+# Social links.
+# Replace the word 'example' with your username if you want to include the icon in the left sidebar
+# Delete the word 'example' if you don't want to include the icon in the left sidebar
+
+twitter_username:     mcmullen_greg  # Replace this with your Twitter username
+github_username:      mcmullengreg  # Replace this with your GitHub username
+linkedin_username:    gregmcmullen  # Replace this with your LinkedIn username
+google_plus_username:   # Replace this with your Google+ username
+facebook_username:    GregoryAMcMullen  # Replace this with your Facebook username
+dribbble_username:      # Replace this with your Dribbble username
 
 # Build settings
 markdown: kramdown
