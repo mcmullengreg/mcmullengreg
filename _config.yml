@@ -1,21 +1,31 @@
 # Site settings
 
-title: Gregory McMullen # Title of your site
-email: "&#109;&#99;&#109;&#117;&#108;&#108;&#101;&#110;&#46;&#103;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" # Your contant email
+title: Strata # Title of your site
+email: your-email@domain.com # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
-  Gregory McMullen is a Husband. Dad. Dog owner. Web Developer
+   <strong>I am <a href="/">Strata</a></strong>, a super simple<br />
+   responsive site template freebie<br />
+   crafted by <a href="http://html5up.net">HTML5 UP</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gregoryamcmullen.com" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-twitter_username:     mcmullen_greg  # Replace this with your Twitter username
-github_username:      mcmullengreg  # Replace this with your GitHub username
-linkedin_username:    gregmcmullen  # Replace this with your LinkedIn username
-facebook_username:    GregoryAMcMullen  # Replace this with your Facebook username
+twitter_username:     example  # Replace this with your Twitter username
+github_username:      example  # Replace this with your GitHub username
+linkedin_username:    example  # Replace this with your LinkedIn username
+google_plus_username: example  # Replace this with your Google+ username
+facebook_username:    example  # Replace this with your Facebook username
+dribbble_username:    example  # Replace this with your Dribbble username
 
+# GTM Analytics - Customize with your GTM ID
+# ex: "GTM-XXXXXX"
+gtm: ""
 # Build settings
 markdown: kramdown
+
+sass:
+  sass_dir: css

@@ -70,7 +70,6 @@
 
 			}
 
-/*
 		// Header.
 
 			// Parallax background.
@@ -103,7 +102,6 @@
 					});
 
 				}
-*/
 
 		// Main Sections: Two.
 

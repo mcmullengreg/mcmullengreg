@@ -1,3 +1,2 @@
-_site
-.sass-cache
-.grunt
+_site/
+.sass-cache/
