@@ -20,8 +20,7 @@ structure similar to the following:
     ├── includes
     |   └── config.php
 
-The end product will be much more sophisticated, but this is why I started researching how to 
-create the set the include path.
+The end product will be much more sophisticated, but this is why I started researching how to set the include path.
 
 For 1and1.com hosting, the include path needs to be set similarly to:
 
