@@ -11,16 +11,14 @@ struggling with setting the project up properly.
 After looking at different PHP based projects, I determined that I should look into defining my 
 structure similar to the following:
 
-```
-.
-├── public_html
-|   ├── css
-|   ├── js
-|   ├── images
-|   └── index.php
-├── includes
-|   └── config.php
-```
+    .
+    ├── public_html
+    |   ├── css
+    |   ├── js
+    |   ├── images
+    |   └── index.php
+    ├── includes
+    |   └── config.php
 
 The end product will be much more sophisticated, but this is why I started researching how to 
 create the set the include path.
