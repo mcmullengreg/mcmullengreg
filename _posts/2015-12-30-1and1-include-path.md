@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1and1.com PHP Include Path"
-date:   12/30/15
+date:   12/30/15 15:40:00
 categories: coding, php
 ---
 
