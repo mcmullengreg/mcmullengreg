@@ -2,7 +2,7 @@
 layout: post
 title:  "1and1.com PHP Include Path"
 date:   2015-12-30 15:40:00
-categories: coding, php
+categories: coding php
 ---
 
 I've been working on revising the code for [OurMenuMaker.com](http://ourmenumaker.com) and had been 
