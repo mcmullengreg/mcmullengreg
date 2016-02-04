@@ -20,3 +20,5 @@ github_username:  mcmullengreg
 markdown: kramdown
 
 include: ['_pages']
+
+permalink: /blog/:year/:month/:day/:title.html

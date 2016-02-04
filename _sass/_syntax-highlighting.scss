@@ -1,8 +1,36 @@
 /**
  * Syntax highlighting styles
  */
+ 
+ .post pre,
+.post code {
+  border: 1px solid #d5d5e9;
+  background-color: #eef;
+  padding: 15px 12px;
+  border-radius: 3px;
+  font-size: 15px;
+  overflow-x: scroll;
+  line-height: 1.5;
+}
+
+.post code { padding: 1px 5px; }
+
+.post pre code { border: none; }
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+  border-radius: 3px;
+}
+
+.post pre.terminal code { background-color: #333; }
+ 
 .highlight {
+	margin:1rem;
     background: #fff;
+    font-family: monospace;
     @extend %vertical-rhythm;
 
     .highlighter-rouge & {

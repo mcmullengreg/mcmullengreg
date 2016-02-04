@@ -3,17 +3,31 @@
 
   {% include head.html %}
 
-  <body>
+	<body class="{% if page.id %}post{% else %}page{% endif %}">
+		<div id="site-wrapper">
+			<nav class="menu" role="navigation">
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/blog">Blog</a></li>
+				</ul>
+			</nav>
+			<div class="menu-icon">
+				<a class="nav-toggle">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</a>
+			</div>
+			
+			
+			{% include header.html %}
+			<section id="cd-timeline" class="cd-container">
+				{{ content }}
+			</section>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-<!--     {% include footer.html %} -->
+			{% include footer.html %}
+		</div>
 
   </body>
 

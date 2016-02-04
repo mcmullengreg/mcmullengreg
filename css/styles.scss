@@ -77,7 +77,7 @@ Main components
 
 -------------------------------- */
 
-header {
+header.main {
 	text-align: center;
 	background: $color-1;
 	line-height: 1.5;
@@ -93,6 +93,215 @@ header {
 			@include font-size(24px);
 		}
 	}
+}
+
+// Nav menu
+
+#site-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.menu {
+  width: 300px;
+  height: 100%;
+  background: #303e49;
+  position: fixed;
+  top: 0;
+  right: -300px;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  overflow: hidden;
+  -webkit-transform: translateX(0);
+  -ms-transform: translateX(0);
+  transform: translateX(0);
+  -webkit-transform: translateX(0) translateZ(0);
+  transform: translateX(0) translateZ(0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  z-index: 10;
+  overflow-y: none;
+  &.show-nav {
+    -webkit-transform: translateX(-300px);
+    -ms-transform: translateX(-300px);
+    transform: translateX(-300px);
+    -webkit-transform: translateX(-300px) tranlateZ(0);
+    -ms-transform: translateX(-300px) tranlateZ(0);
+    transform: translateX(-300px) tranlateZ(0);
+    -webkit-transform: translate3d(-300px, 0, 0);
+    transform: translate3d(-300px, 0, 0);
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      position: relative;
+      list-style: none;
+      width: 60%;
+      margin: 0 auto;
+      padding: 20px 10px;
+      text-align: center;
+      border-top: 1px solid rgba(255, 255, 255, 0.25);
+      box-shadow: 0 -1px 1px -1px #746559;
+      &:first-child {
+        margin-top: 20px;
+        border: 0;
+        box-shadow: none;
+      }
+      a {
+        position: relative;
+        font-weight: 300;
+        padding: 8px 10px;
+        color: white;
+        text-decoration: none;
+        text-transform: uppercase;
+        -webkit-transition: all 0.25s ease-in-out;
+        transition: all 0.25s ease-in-out;
+        &:after {
+          content: "";
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          height: 1px;
+          background-color: #fff;
+          visibility: hidden;
+          -webkit-transform: scaleX(0);
+          -ms-transform: scaleX(0);
+          transform: scaleX(0);
+          -webkit-transition: all 0.3s cubic-bezier(0.32, 1.25, 0.375, 1.15);
+          transition: all 0.3s cubic-bezier(0.32, 1.25, 0.375, 1.15);
+        }
+      }
+    }
+  }
+}
+
+.no-touch .menu ul li a:hover:after {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  visibility: visible;
+}
+
+.menu p {
+  color: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  top: 86%;
+  left: 20px;
+  font-size: 0.875em;
+  text-align: center;
+  a {
+    color: rgba(243, 139, 0, 0.6);
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    &:hover {
+      color: #f38b00;
+      text-decoration: underline;
+    }
+  }
+}
+
+.menu-icon{
+	border-radius: 4px;
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	padding:10px;
+	width:60px;
+	height: 50px;
+	background: #303e49;
+	z-index: 11;
+}
+
+.nav-toggle {
+	
+	position: absolute;
+  width: 40px;
+  height: 25px;
+  z-index: 11;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .5s ease-in-out;
+  -moz-transition: .5s ease-in-out;
+  -o-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+  cursor: pointer;
+}
+
+.nav-toggle span{
+  display: block;
+  position: absolute;
+  height: 5px;
+  width: 100%;
+  background: #fff;
+  border-radius: 9px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+}
+
+.nav-toggle {
+  span {
+    &:nth-child(1) {
+      top: 0px;
+    }
+    &:nth-child(2), &:nth-child(3) {
+      top: 12px;
+    }
+    &:nth-child(4) {
+      top: 24px;
+    }
+  }
+  &.show-nav span {
+    &:nth-child(1) {
+      top: 12px;
+      width: 0%;
+      left: 50%;
+    }
+    &:nth-child(2) {
+      -webkit-transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg);
+    }
+    &:nth-child(3) {
+      -webkit-transform: rotate(-45deg);
+      -moz-transform: rotate(-45deg);
+      -o-transform: rotate(-45deg);
+      transform: rotate(-45deg);
+    }
+    &:nth-child(4) {
+      top: 12px;
+      width: 0%;
+      left: 50%;
+    }
+  }
+}
+
+
+.no-touch .nav-toggle span:hover {
+  color: #fff;
+}
+
+.nav-toggle span.fa-times {
+  color: #fff;
+  &:hover {
+    color: #fff;
+  }
 }
 
 footer {
@@ -179,7 +388,7 @@ footer {
 		margin-left: -12px;
 		margin-top: -12px;
 	}
-
+	
 	&.cd-picture {
 		background: $color-4;
 	}
@@ -191,7 +400,10 @@ footer {
 	&.cd-location {
 		background: $color-5;
 	}
-
+	
+	&.post-icon{
+		background: $color-5;
+	}
 	@include MQ(L) {
 		width: 60px;
 		height: 60px;
@@ -242,7 +454,7 @@ footer {
 		color: $color-1;
 	}
 
-	p, .cd-read-more, .cd-date {
+	p, .cd-read-more, .cd-date, li, blockquote {
 		@include font-size(13px);
 	}
 
@@ -250,7 +462,7 @@ footer {
 		display: inline-block;
 	}
 
-	p {
+	p, li, blockquote {
 		margin: 1em 0;
 		line-height: 1.6;
 	}
@@ -266,7 +478,23 @@ footer {
 			background-color: lighten($link, 5%);
 		}
 	}
-
+	
+	ul{
+		list-style: disc;
+		margin:0 15px;
+		ul{
+			list-style: circle;
+		}
+	}
+	
+	ol{
+		list-style: decimal;
+		margin:0 15px;
+		ol{
+			list-style: lower-alpha;
+		}
+	}
+	
 	.cd-date {
 		float: left;
 		padding: .8em 0;
@@ -289,7 +517,7 @@ footer {
 			@include font-size(20px);
 		}
 
-		p {
+		p, li, blockquote {
 			@include font-size(16px);
 		}
 
@@ -353,6 +581,10 @@ footer {
 			@include animation(cd-bounce-2 .6s);
 		}
 	}
+}
+
+.post > .code{
+	background:red;
 }
 
 @include MQ(L) {
