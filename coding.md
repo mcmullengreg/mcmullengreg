@@ -43,7 +43,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
   * Website is no longer an iteration of what was in place in 2012
   
 ### Public Repositories
-
+{{ site.github }}
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
