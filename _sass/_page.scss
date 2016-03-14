@@ -25,3 +25,7 @@ body{
 		}
 	}
 }
+
+.page-nav, .comments{
+	@include pad();
+}
