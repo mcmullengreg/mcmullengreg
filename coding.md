@@ -6,12 +6,8 @@ permalink: /coding/
 
 weight: 2
 menu: left
-hp_title: Public Projects
-hp_content: > 
-  <p>Below is a sample of projects I've pushed up to Github over the past few years.</p>
-  {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-  {% endfor %}
+hp_title: 
+hp_content:
 ---
 
 Below is a select list of projects that Greg is working on, or has worked on in the past.
@@ -43,7 +39,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
   * Website is no longer an iteration of what was in place in 2012
   
 ### Public Repositories
-{{ site.github }}
+
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
