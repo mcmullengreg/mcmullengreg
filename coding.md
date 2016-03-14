@@ -14,7 +14,7 @@ hp_content: >
 
 Below is a select list of projects that Greg is working on, or has worked on in the past.
 
-##Active Projects
+## Active Projects
 
 * [Xavier Univeristy](http://www.xavier.edu)
   * V4 template redevelopment - Working to clean up base code for accessibility and performance
@@ -26,7 +26,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 * [Gregory A McMullen](http://gregoryamcmullen.com)
   * This website
 
-###Past Projects
+### Past Projects
 
 * [Xavier Univeristy](http://www.xavier.edu) - (Current role)
   * Lead Developer for V4 project - Developed and actively maintain CMS template and non-CMS based tempates (CFML). Created template documentation.
@@ -40,6 +40,6 @@ Below is a select list of projects that Greg is working on, or has worked on in 
   * Managed SEO and email campaigns
   * Website is no longer an iteration of what was in place in 2012
   
-###Public Repositories
+### Public Repositories
 
 <div class="repos"></div>

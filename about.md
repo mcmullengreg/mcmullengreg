@@ -15,7 +15,7 @@ hp_image: https://s.gravatar.com/avatar/e673eee9c1c37065b18e21bdbf153457?s=200
 
 Greg McMullen is a husband, dad, dog owner, web developer and [former] swim coach . This should give you everything you need to know, his first priority is being a loving husband and father to his wife, daughter and, of course, their dog.
 
-##Greg McMullen, Web Developer
+## Greg McMullen, Web Developer
 
 In August 2014 Greg joined the Office of Marketing and Communications staff at his alma mater, [Xavier University](http://www.xavier.edu) in Cincinnati, OH, as a web developer. The job has been a mix of [projects]({{ "/coding" | prepend: site.baseurl }}) so far with his first being a complete design overhaul of the Road to Xavier website, an admitted student portal. This project started on day one and had a quick deadline of October. With help from the team, the project has been a success.
 
