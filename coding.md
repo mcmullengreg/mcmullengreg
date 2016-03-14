@@ -9,9 +9,6 @@ menu: left
 hp_title: Public Projects
 hp_content: > 
   <p>Below is a sample of projects I've pushed up to Github over the past few years.</p>
-  {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-  {% endfor %}
 ---
 
 Below is a select list of projects that Greg is working on, or has worked on in the past.
@@ -45,5 +42,5 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 ### Public Repositories
 
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
+* [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
