@@ -1,29 +1,40 @@
 ---
 layout: default
----
-
-{% assign sorted = (site.pages | sort: 'start_date') | reverse %}
-{% for page in sorted %}
-	{% if page.timeline %}
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img" {% if page.icon_color %}style="background-color:{{ page.icon_color }}"{% endif %}>
-				{% if page.icon %}
-					<img src="{{ "/img/" | prepend: site.baseurl | append: page.icon }}" />
-				{% endif %}
-			</div>
-			<div class="cd-timeline-content">
-				<h2>{{ page.title }}</h2>
-				<p>
-					{% if page.description %}
-						{{ page.description }}
-					{% else %}
-						{{ page.content }}
-					{% endif %}
-				</p>
-				{% if page.start_date %}
-					<span class="cd-date">{{ page.start_date | date: "%b %Y" }} {% if page.end_date %} - {{ page.end_date | date: "%b %Y" }} {% endif %}</span>	
-				{% endif %}
-			</div>
-		</div>
+---	
+{% assign pages = site.pages | sort: "weight" %}
+{% for node in pages %}
+	{% if node.hp_title or node.hp_content and node.url != '/' %}
+		<section class="hp" id="{{ node.url | remove: '/' }}">				
+			<header>
+				{% if node.hp_title %}
+					<h2 class="section-heading">{{ node.hp_title }}</h2>
+				{% elsif node.url == "/about/" %}
+					<img src="{{ node.hp_image }}" alt="" />
+					<p class="section-heading">{{ node.hp_content }}</p>
+				{% endif %}	
+			</header>
+			{% if node.url == "/coding/" or node.url =='/coaching/' %}
+				{{ node.hp_content }}
+			{% endif %}	
+		</section>
 	{% endif %}
 {% endfor %}
+
+<section id="blog" class="hp">
+	<header>
+		<h2 class="section-heading">Recent Posts</h2>
+	</header>
+	
+	{% for post in site.posts limit: 5 %}
+		<div class="post-content">
+			<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+			<p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
+			<p>{{ post.excerpt }}</p>
+			<p><a href="{{ post.url }}">Read more &raquo;</a></p>
+		</div>
+	{% endfor %}
+	
+	{% if site.posts.size > 5 %}
+		<p class="view-blog"><a href="{{ "/blog" | prepend: site.baseurl }}">View more posts &raquo;</a></p>
+	{% endif %}
+</section>

@@ -1,4 +1,37 @@
-<header class="main">
-	<h1>{{ site.title }}</h1>
-	<p>{{ site.description }}</p>
+<header id="site-header" role="banner" aria-labelledby="site-heading">
+	<div class="heading-container">
+		<h1 id="site-heading">
+			<a href="/">
+				{{ site.title }}
+			</a>
+		</h1>
+	</div>
+	<div class="menu-icon">
+		<a class="nav-toggle" aria-label="Toggle navigation">
+			<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
+		</a>
+	</div>
+	
+	{% assign pages = site.pages | sort: "weight" %}
+	
+	<div class="nav left">
+		{% for node in pages %}
+			{% if node.menu == "left" %}
+				{% capture nodediff %}{{ page.url | remove:node.url }}{% endcapture %}
+				<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url }}">{% if node.link-text %} {{ node.link-text }} {% else %}{{ node.title }} {% endif %}</a>
+			{% endif %}
+		{% endfor %}
+	</div>
+	
+	<div class="nav right">
+		{% for node in pages %}
+			{% if node.menu == "right" %}
+				{% capture nodediff %}{{ page.url | remove:node.url }}{% endcapture %}
+				<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url }}">{% if node.link-text %} {{ node.link-text }} {% else %}{{ node.title }} {% endif %}</a>
+			{% endif %}
+		{% endfor %}
+	</div>
 </header>

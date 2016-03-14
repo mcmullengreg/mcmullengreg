@@ -1,0 +1,27 @@
+// Single Page and Post content
+article{
+	@include pad(0.125rem 1rem);
+// 	background: white;
+	
+	.post-title{
+		text-align: center;
+	}
+	.post-meta{
+		color: darken($color2, 35%);
+	}
+}
+
+body{
+	&.about{
+		img:first-child{
+			display: block;
+			margin: 0 auto;
+			max-width: 100%;
+			
+			@include media($tablet){
+				float:right;
+				margin: 0 0 1rem 1rem;
+			}
+		}
+	}
+}
