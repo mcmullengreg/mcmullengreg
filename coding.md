@@ -6,9 +6,8 @@ permalink: /coding/
 
 weight: 2
 menu: left
-hp_title: Public Projects
-hp_content: > 
-  <p>Below is a sample of projects I've pushed up to Github over the past few years.</p>
+hp_title: 
+hp_content:
 ---
 
 Below is a select list of projects that Greg is working on, or has worked on in the past.
