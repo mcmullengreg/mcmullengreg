@@ -14,6 +14,6 @@ In 2010, Greg began looking for a program to work with in the Indianapolis area.
 
 Prior to his second season, Greg joined the staff of the Red Devil Aquatic Club (USA Swimming) to work with the Stroke School (10 & under) and Novice (11-12) athletes. Prior to and after the high school season, Greg began working with the senior athletes until leaving for Rose-Hulman (NCAA).
 
-In his first season with Rose-Hulman Swimming & Diving, Greg focused on technique improvements across the board primarily in starts and turns. He was given the freedom to work with the athletes two days a week improving speed and techniques off blocks and walls. In the two years working with Rose-Hulman the team earned 30+ school records, 24 All-Conference Award Winners, four All-Academic team awards, four NCAA Division III national qualifying bids and two All-Americans (Swimming and Diving Headlines).
+In his first season with Rose-Hulman Swimming & Diving, Greg focused on technique improvements across the board primarily in starts and turns. He was given the freedom to work with the athletes two days a week improving speed and techniques off blocks and walls. In the two years working with Rose-Hulman the team earned 30+ school records, 24 All-Conference Award Winners, four All-Academic team awards, four NCAA Division III national qualifying bids and two All-Americans.
 
 After parting ways with Rose-Hulman, Greg joined the Northern Kentucky Clippers for the second half of the season but decided to put his coaching aspirations aside while tending to his wife and young family.
