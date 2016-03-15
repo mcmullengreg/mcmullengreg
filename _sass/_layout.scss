@@ -104,11 +104,21 @@ main{
 	text-align: center;
 	a{
 		color: darken($color2, 35%);
-		border-radius: 8px;
-		padding:0.25rem;
+		border-radius: 4px;
+		padding:0.25rem 0.5rem;
 		border: solid 1px darken($color2, 35%);
+		transition: background 500ms ease, border 500ms ease, color 500ms ease;
 		&:hover, &:focus{
-			border: solid 1px darken($color5, 15%);;	
+			border: solid 1px darken($color5, 15%);
+			background: darken($color5, 15%);
+			color:white;
 		}
 	}
+}
+
+blockquote{
+	border-left: solid 5px $color2;
+	background: white;
+	padding:0.875rem;
+	font-size: 1.25rem;
 }
