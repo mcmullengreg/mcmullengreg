@@ -2,7 +2,8 @@
 layout: post
 title:  "Project Update"
 date:   2015-10-20 10:00:00
-categories: projects, update, code
+categories: code
+comments: true
 ---
 
 After a beginning minor development in PHP for the temp v4 project, I've decided to go ahead and install a ColdFusion development server locally 
@@ -11,7 +12,7 @@ to begin developing the template in ColdFusion.
 Luckily I've had some experience converting PHP to ColdFusion, although it was rather simple since all I used were a few variables to determine what 
 stylesheet loaded on the page and a few includes.
 
-##Header Improvements
+## Header Improvements
 
 While it may not seem significant, I've been able to do some cleanup with the actual HTML code for the header file. Instead of dropping in two different 
 navigation elements for Mobile and Desktop, I was able to create a new header combining the two using `flexbox` instead of Bootstrap, or an inefficient
@@ -19,14 +20,14 @@ navigation elements for Mobile and Desktop, I was able to create a new header co
 
 While I did have to use `position:absolute` to bring up the main `nav` in the desktop version. The remainder of the site is in `flex`
 
-##Stylesheets
+## Stylesheets
 
 Styles will be written in SCSS format. We're using a three stylesheet format:
 1. Global.scss - Header Footer and all of the necessary layouts.
 2. Theme.scss - CMS specific stylesheet.
 3. Bands.scss - Banded page stylesheet.
 
-##Grunt Modules
+## Grunt Modules
 
 `Grunt` Has been extremely helpful throughout the build process. Some of the modules I've included have been:
 

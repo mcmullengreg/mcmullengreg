@@ -2,7 +2,8 @@
 layout: post
 title:  "Working with Bower"
 date:   2015-11-11 10:09:00
-categories: bower, code
+categories: code
+comments: true
 ---
 
 While working on the redevelopment for the [Xavier University V4 project](/projects). I've determined that I needed to get a better understanding of 

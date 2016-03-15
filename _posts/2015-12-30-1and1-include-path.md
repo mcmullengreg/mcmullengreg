@@ -2,7 +2,8 @@
 layout: post
 title:  "1and1.com PHP Include Path"
 date:   2015-12-30 15:40:00
-categories: code, php
+categories: code
+comments: true
 ---
 
 I've been working on revising the code for [OurMenuMaker.com](http://ourmenumaker.com) and had been 
@@ -24,6 +25,8 @@ The end product will be much more sophisticated, but this is why I started resea
 
 For 1and1.com hosting, the include path needs to be set similarly to:
 
+{% highlight php %}
     include_path = .:/usr/lib/php5.5:/kunden/homepages/XX/XXXXXXXX/htdocs/PATH/TO/YOUR/PROJECT
+{% endhighlight %}
 
 I modified the `php.ini` file in my project directory and also set the folder/file permissions as appropriate.
