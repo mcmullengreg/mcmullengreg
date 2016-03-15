@@ -22,7 +22,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 * [McMullen Law Office](http://www.mcmullenlaw.com)
   * McMullen Law Office website. Currently using a custom theme, version 2 is under development
 * [Gregory A McMullen](http://gregoryamcmullen.com)
-  * This website
+  * This website, see [how I set it up]({% post_url 2016-03-14-a-new-site %})
 
 ### Past Projects
 
