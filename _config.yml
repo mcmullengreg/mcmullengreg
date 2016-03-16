@@ -24,3 +24,6 @@ permalink: /:categories/:title
 
 gems: 
   - jekyll-sitemap
+  
+sass:
+  style: compressed
