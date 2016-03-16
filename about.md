@@ -6,6 +6,7 @@ permalink: /about/
 
 weight: 1
 menu: left
+excerpt: Greg McMullen is a husband, father and web developer.
 
 hp_content: Husband. Father. Web Developer.
 hp_image: https://s.gravatar.com/avatar/e673eee9c1c37065b18e21bdbf153457?s=200

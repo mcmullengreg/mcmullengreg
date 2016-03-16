@@ -2,6 +2,7 @@
 #site-header{
 	background: white;
 	width: 100%;
+	z-index: 1000;
 	@include row();
 	.heading-container, .nav{
 		@include span-columns(12);

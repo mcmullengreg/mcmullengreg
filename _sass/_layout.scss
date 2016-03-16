@@ -17,13 +17,31 @@ main{
 		color: $color3;
 	}
 	
+	.post-meta{
+		color: darken($color2, 35%);
+	}
+	
+	img{
+		max-width: 100% !important;
+	}
+	
 	.posts{
 		@include pad();
 		.section-heading{
 			text-align: center;
 		}
-		.post-content:not(:last-child){
+		.year-heading{
+			border-top: dotted 1px $color2;
 			border-bottom: dotted 1px $color2;
+			margin: 1.25rem 0;
+			color: #46494c;
+			
+			~ .post-content{
+				border-top: dotted 1px $color2;
+			}		
+			+ .post-content{
+				border:none;
+			}
 		}
 	}
 	
@@ -85,9 +103,6 @@ main{
 		.post-content:not(:last-child){
 			border-bottom: dotted 1px $color2;
 		}
-		.post-meta{
-			color: darken($color2, 35%);
-		}
 	}
 }
 
@@ -121,4 +136,8 @@ blockquote{
 	background: white;
 	padding:0.875rem;
 	font-size: 1.25rem;
+}
+
+.twitter-tweet{
+	margin: 0 auto;
 }

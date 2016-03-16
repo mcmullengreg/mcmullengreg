@@ -6,6 +6,8 @@ permalink: /coaching/
 
 weight: 3
 menu: right
+
+excerpt: Greg McMullen's coaching history and philosophy.
 ---
 
 Greg’s first experience with “coaching” started during his own swim career. He began working with bronze level athletes for South Dearborn Swimming (now Sea Dragons Swimming). Little did he know the path that would follow.
