@@ -141,3 +141,10 @@ blockquote{
 .twitter-tweet{
 	margin: 0 auto;
 }
+.post-by-year{
+	list-style-position: inside;
+	columns: 2;
+	@include media($tablet){
+		columns: 3;
+	}
+}
