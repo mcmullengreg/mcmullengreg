@@ -27,6 +27,7 @@ tags:
   - Coaching
   - swimming
   - swimming mistakes
+comments: true
 ---
 Breaststroke is a very strange stroke to swim due to the nature of the timing between the kick and pull and the performing the kick itself. Hopefully after reading this you will have a better sense of when kicks and pulls should start but you will also be able to take some drills out of this post.
 

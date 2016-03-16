@@ -24,6 +24,7 @@ tags:
   - Rose-Hulman
   - Work
   - work experiences
+comments: true
 ---
 For the last three weeks, I&#8217;ve been working towards finding my own way. The people at Rose-Hulman have made my transition extremely easy and incredibly fun. 
 

@@ -15,6 +15,7 @@ categories:
   - Personal
 tags:
   - Failure
+comments: true
 ---
 There are two Michael Jordan quotes that truly are amazing. Actually, he has quite a few quotes on this topic; the two I am going to focus on are some of my favorites.
 

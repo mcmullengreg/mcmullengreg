@@ -26,6 +26,7 @@ categories:
 tags:
   - 15 to live
   - Trust30
+comments: true
 ---
 
 In an effort to improve my writing skills and to post more frequently I have decided to join the #Trust30 effort. Luckily I won&#8217;t have to be too creative as there will be prompts for me to write about. Today&#8217;s prompt by [Gwen Bell](https://twitter.com/gwenbell) is &#8220;15 Minutes to Live&#8221;

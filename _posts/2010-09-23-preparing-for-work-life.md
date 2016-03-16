@@ -24,6 +24,7 @@ categories:
 tags:
   - business life
   - personal life
+comments: true
 ---
 
 While you are in school, no one really tells you how to prepare for work life. Honestly, I wasn&#8217;t sure I could make it in the real world. However, I&#8217;m currently working a full time job, paid off 2 student loans (2 to go), picked up my cell phone bill and bought a car! The best part is that I&#8217;m only 23 years old.

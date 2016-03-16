@@ -13,6 +13,7 @@ tags:
   - full potential
   - Reaching Your Full Potential
   - success driven potential
+comments: true
 ---
 People look towards family and close friends for support. How often do these requests get laughed at? Ignored? Supported? Or encouraged? No matter the outcome, these situations strengthen connections and can often help when reaching your full potential.
 

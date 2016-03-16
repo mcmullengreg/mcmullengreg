@@ -22,6 +22,7 @@ tags:
   - stretch cords
   - working out
   - workout
+comments: true
 ---
 Everyone&#8217;s busy. How do you manage to get a workout in? Do you have an expensive gym membership? Do you just walk or run around your neighborhood? Or do you have trouble finding the motivation to do a workout?
 

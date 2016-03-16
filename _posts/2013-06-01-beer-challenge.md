@@ -12,6 +12,7 @@ tags:
   - Beer
   - brews
   - challenge
+comments: true
 ---
 Earlier this week, I visited a wonderful little market here in Terre Haute. It&#8217;s name? Baesler&#8217;s Market.
 

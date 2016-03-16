@@ -20,6 +20,7 @@ tmac_last_id:
   - 322482963302461440
 categories:
   - Trust30
+comments: true
 ---
 > I will not hide my tastes or aversions. I will so trust that what is deep is holy, if we follow the truth, it will bring us out safe at last. – Ralph Waldo Emerson
 

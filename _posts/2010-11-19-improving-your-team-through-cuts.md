@@ -24,6 +24,7 @@ categories:
   - Life
   - Marketing
   - Personal
+comments: true
 ---
 
 I&#8217;m starting to find myself in some tough spots. Last week we had a few guys that were having a rough time even making it through pushing off of a wall without stopping immediately. This combined with the fact that we have a 6-lane pool with over 30 swimmers meant that we unfortunately had to make some cuts.

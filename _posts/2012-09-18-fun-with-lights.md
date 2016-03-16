@@ -25,6 +25,7 @@ tags:
   - slow shutter photography
   - sparklers
 format: image
+comments: true
 ---
 Over the weekend, a friend asked me to do something I&#8217;ve never done before. Photograph their wedding.
 

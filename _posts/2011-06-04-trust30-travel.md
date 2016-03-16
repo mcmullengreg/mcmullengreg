@@ -28,6 +28,7 @@ tags:
   - Personal
   - travel
   - Trust30
+comments: true
 ---
 > If we live truly, we shall see truly. &#8211; Ralph Waldo Emerson
 

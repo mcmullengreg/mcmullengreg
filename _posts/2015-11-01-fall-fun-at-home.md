@@ -12,6 +12,7 @@ categories:
 tags:
   - fall photos
   - family fun
+comments: true
 ---
 Sarah and I were trying to get the yard cleaned up, but our Baby Girl had some plans over her own. Oh well, we&#8217;re just glad she had some fun!
 {%comment%}

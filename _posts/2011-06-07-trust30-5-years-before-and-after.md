@@ -26,6 +26,7 @@ tags:
   - Life
   - personal life
   - Trust30
+comments: true
 ---
 > There will be an agreement in whatever variety of actions, so they be each honest and natural in their hour. – Ralph Waldo Emerson
 

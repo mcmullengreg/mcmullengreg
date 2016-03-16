@@ -12,6 +12,7 @@ tags:
   - Mental Barriers
   - Motivation
   - Obstacles
+comments: true
 ---
 Everyone takes their eyes off the goal. Everyone. Who remembers Michael Phelps&#8217; incident after the 2008 Olympics? What about Ryan Lochte, did you even know he was debating skipping the 2016 Olympics, but recently [changed his mind](http://www.indystar.com/article/20130624/SPORTS/306240086/USA-Swimming-nationals-Ryan-Lochte-decides-he-s-serious-about-2016-Rio-Olympics)?
 

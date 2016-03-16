@@ -27,6 +27,7 @@ tags:
   - Greg McMullen
   - losing
   - personal life
+comments: true
 ---
 > Success is Peace of Mind which is a direct result of self satisfaction in knowing you made the effort to do the best of which you are capable.
   - John Wooden

@@ -27,6 +27,7 @@ tags:
   - Greg McMullen
   - job search
   - Personal
+comments: true
 ---
 Job searching is a necessary part of your professional life. However, there are some do&#8217;s and don&#8217;ts. Right now I&#8217;m going to talk about something that hits very close to home when it comes to searching for your next job or even your dream career.
 

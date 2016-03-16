@@ -31,6 +31,7 @@ tags:
   - php
   - wordpress
   - wordpress menus
+comments: true
 ---
 When creating WordPress themes, sometimes it&#8217;s necessary to create your own menus. With 3.0+ you are able to create menus as well as a fallback menu.
 

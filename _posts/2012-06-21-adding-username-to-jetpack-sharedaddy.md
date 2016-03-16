@@ -10,6 +10,7 @@ tmac_last_id:
   - 322482950274945025
 categories:
   - Coding
+comments: true
 ---
 **Update:** After multiple imports/exports of this post a lot of the code is lost, and I&#8217;m fairly sure it&#8217;s not longer relevant.
 

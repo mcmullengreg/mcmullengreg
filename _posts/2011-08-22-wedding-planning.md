@@ -13,6 +13,7 @@ tmac_last_id:
 categories:
   - Life
   - Personal
+comments: true
 ---
 As some of you may (or not) know Sarah and I are engaged. We have been for just over a week and we have been obviously talking about our wedding. Within the last week (or so) we&#8217;ve accomplished just a few different things.
 

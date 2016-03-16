@@ -12,6 +12,7 @@ tags:
   - dessert
   - holiday treat
   - mini apple pie
+comments: true
 ---
 With Thanksgiving right around the corner, my wife had the idea to make some mini apple pies to bring to the family gathering since we had leftover apples from [Backyard Orchard](https://www.facebook.com/BackyardOrchard/).
 

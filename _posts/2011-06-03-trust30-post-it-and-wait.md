@@ -20,6 +20,7 @@ tmac_last_id:
   - 322482967530328064
 categories:
   - Trust30
+comments: true
 ---
 > That which each can do best, none but his Maker can teach him. Where is the master who could have taught Shakespeare? Where is the master who could have instructed Franklin, or Washington, or Bacon, or Newton? . . . Shakespeare will never be made by the study of Shakespeare. Do that which is assigned you, and you cannot hope too much or dare too much. – Ralph Waldo Emerson
 

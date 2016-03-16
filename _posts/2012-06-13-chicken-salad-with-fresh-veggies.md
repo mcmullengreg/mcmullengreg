@@ -33,6 +33,7 @@ tags:
   - Edamame
   - yellow squash
   - zucchini
+comments: true
 ---
 Decided to make another new recipe with Sarah this week. From a pampered chef cook book.
 

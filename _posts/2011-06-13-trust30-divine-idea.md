@@ -27,6 +27,7 @@ tags:
   - personal life
   - Trust30
   - work and personal life
+comments: true
 ---
 > Imitation is Suicide. Insist on yourself; never imitate. – Ralph Waldo Emerson
 

@@ -19,6 +19,7 @@ tags:
   - motivating athletes
   - Motivation
   - sports
+comments: true
 ---
 If you&#8217;ve ever watched a college basketball game, the coaching staff in the locker room is trying to &#8220;psych&#8221; up the team. Sometimes it works; however, it also creates undue stress in what could be your top performers.
 

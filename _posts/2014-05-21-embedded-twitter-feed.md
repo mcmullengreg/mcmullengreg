@@ -12,6 +12,7 @@ tags:
   - twitter api
   - twitter timeline
   - umbraco macro
+comments: true
 ---
 Basic [embedded twitter feed](http://our.umbraco.org/projects/website-utilities/twitter-embedded-timeline) macro for usage on your Umbraco website. There is a 7.x version and a 4.11.x version available.
 

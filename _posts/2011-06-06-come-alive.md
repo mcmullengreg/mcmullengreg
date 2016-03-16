@@ -27,6 +27,7 @@ tags:
   - Greg McMullen
   - personal life
   - work and personal life
+comments: true
 ---
 > Life wastes itself while we are preparing to live. – Ralph Waldo Emerson
 

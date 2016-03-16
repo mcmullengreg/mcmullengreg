@@ -26,6 +26,7 @@ tags:
   - Greg McMullen
   - swimming coaching
   - Trust30
+comments: true
 ---
 > Men imagine that they communicate their virtue or vice only by overt actions, and do not see that virtue or vice emit a breath every moment. &#8211; Ralph Waldo Emerson
 

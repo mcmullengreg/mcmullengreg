@@ -18,6 +18,7 @@ tags:
   - razor
   - titles for umbraco
   - Umbraco
+comments: true
 ---
 **Update:** I&#8217;ve revisited this code to clean it up and make it much more useable. [View the updated code]({% post_url 2013-05-29-updated-structured-umbraco-page-titles %}).
 

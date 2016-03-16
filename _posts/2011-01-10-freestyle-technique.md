@@ -25,6 +25,7 @@ tags:
   - excercise
   - swimming
   - swimming mistakes
+comments: true
 ---
 Proper stroke technique is obtained by utilizing a strong underwater catch, pull-through, recovery and a strong flutter-style kick.
 

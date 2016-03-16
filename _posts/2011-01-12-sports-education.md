@@ -28,6 +28,7 @@ tags:
   - indiana
   - team building
   - teams
+comments: true
 ---
 Now, to start things off I&#8217;m a little upset and frustrated at this quote from Cam Newton after the Auburn Tigers beat the Oregon Ducks in the BCS Title game. So if this seems a little off topic, I want to apologize.
 

@@ -18,6 +18,7 @@ tags:
   - goal setting
   - personal goals
   - resolutions
+comments: true
 ---
 I honestly can&#8217;t remember the last time I actually wanted to make a New Year&#8217;s resolution. However, I am wanting to better my life and others around me so here it is; making it 100% public for the first time.
 

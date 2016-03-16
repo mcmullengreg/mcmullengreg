@@ -25,6 +25,7 @@ tags:
   - Blueberry
   - Cooking
   - Muffins
+comments: true
 ---
 So while Sarah and I were sitting around on Friday night I decided that I wanted to attempt making some blueberry muffins (sorry @that\_girl\_lola your Pumpkin Pecan muffins will be next, I promise!). I got the recipe off of [AllRecipes.com](http://allrecipes.com//Recipe/to-die-for-blueberry-muffins/Detail.aspx) and decided to also include some images of the muffins!
 

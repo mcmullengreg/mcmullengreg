@@ -27,6 +27,7 @@ tags:
   - chasing your dreams
   - dream job
   - jobs
+comments: true
 ---
 This weekend I decided to head down to visit my girlfriend, who is attending IU Medical School, and while we know that living an hour apart is going to be tough we never realized how hard it was until today around 2:00.
 

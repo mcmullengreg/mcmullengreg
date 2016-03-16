@@ -21,6 +21,7 @@ tags:
   - health
   - swimming
 format: aside
+comments: true
 ---
 The other day, I finally decided to weigh myself. I weighed in at 194.4lbs. New goal, weigh in the 180&#8217;s before August 11.
 

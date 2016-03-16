@@ -15,6 +15,7 @@ categories:
 tags:
   - featured
 format: quote
+comments: true
 ---
 Recently, I received a series of text messages from a former swimmer. I only coached this athlete for two high school seasons and not only did he have an impact on my life, but these messages clearly showed that I had an impact on his as well.
 

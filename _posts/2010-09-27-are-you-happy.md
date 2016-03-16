@@ -29,6 +29,7 @@ tags:
   - job satisfaction
   - making work fun
   - work and personal life
+comments: true
 ---
 Recently, over lunch, Greg asked if I would guest post about separating work and Life. As I considered what I would like to share, I realized how many different approaches were available on this subject. Do I talk of social media and how difficult it is to separate work from social media 24/7? How about strategies to balance your life? How to make work fun or eliminate stress? I could talk about balancing work, family, spiritual, and personal time. Should I explore employee and employer responsibilities?
 

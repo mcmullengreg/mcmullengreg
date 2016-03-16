@@ -12,6 +12,7 @@ tags:
   - css
   - sass
   - scss
+comments: true
 ---
 While working on the redesign for the Xavier Website (dubbed V4), I tasked myself with trying to simplify our CSS. Luckily we use SASS/SCSS on our servers and we can write a lot more CSS in much less time.
 

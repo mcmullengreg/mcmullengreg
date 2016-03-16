@@ -28,6 +28,7 @@ tags:
   - interview
   - job interview
 format: aside
+comments: true
 ---
 I was recently interviewed for a head coach job at my old swim club, [South Dearborn Swimming](http://southdearbornswimming.org/). I surprised myself when I was asked the question.
 

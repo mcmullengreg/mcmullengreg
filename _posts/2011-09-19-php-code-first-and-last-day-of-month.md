@@ -18,6 +18,7 @@ tags:
   - last day of month
   - php
   - php dates
+comments: true
 ---
 As I was writing some code today, I wanted a quick way to display the end of the month Date and came across this little snippet on Justin-Cook.com. It&#8217;s a post from 2009, but it still does what I need it to!
 

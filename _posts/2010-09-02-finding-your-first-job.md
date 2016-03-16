@@ -25,6 +25,7 @@ categories:
 tags:
   - job search
   - personal marketing
+comments: true
 ---
 
 I know that when I started looking for jobs in college I looked for just about any place that was offering a job. The worst part about it was looking for something within my Degree (BSBA in Business Management). Obviously trying to find a &#8220;management&#8221; job was out of the question unless it would be lower-level.

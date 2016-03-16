@@ -36,6 +36,7 @@ tags:
   - Photos
   - zoo
 format: gallery
+comments: true
 ---
 Decided to take a trip up to the Indy Zoo. Sarah and I really enjoyed being outside and I was surprised how active all of the animals were.
 

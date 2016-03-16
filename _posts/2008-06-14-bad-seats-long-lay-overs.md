@@ -17,6 +17,7 @@ tags:
   - Ireland
   - travel
 format: status
+comments: true
 ---
 Hello everybody! Just so everyone knows I made it to Ireland safe and sound. The flight was long, and very boring and also very uncomfortable. However, I did realize that Shannon International has FREE WI-FI, hence the reason I am writing right now. So after I get out of the airport I should be able to do some visiting of the area and being able to enjoy my self in the land of my forefathers.
 

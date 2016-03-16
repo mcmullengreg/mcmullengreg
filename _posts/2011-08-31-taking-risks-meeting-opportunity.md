@@ -18,6 +18,7 @@ tags:
   - employment
   - Greg McMullen
   - risk
+comments: true
 ---
 
 Recently I was talking to an online acquaintance regarding the process of making tough decisions. My question to you is __why are you afraid to take the risks that will make you happy?__

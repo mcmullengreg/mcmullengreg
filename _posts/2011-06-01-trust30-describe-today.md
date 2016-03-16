@@ -31,6 +31,7 @@ tags:
   - personal marketing
   - Trust30
   - work and personal life
+comments: true
 ---
 Today&#8217;s task seems slightly more daunting than yesterday. Somehow I am supposed to describe my day in only one sentence. Shouldn&#8217;t be too hard&#8230;right? [Author [Liz Danzico](http://dis.bobulate.com/about/).
 

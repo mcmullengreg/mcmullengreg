@@ -25,6 +25,7 @@ tags:
   - excercise
   - health
   - healthy living
+comments: true
 ---
 So as I&#8217;m progressing through my 20s I&#8217;ve realized that I&#8217;m no where near where I need to be in regards to my health. It&#8217;s always a shock as to how I&#8217;ve been able to get these last 4 to 5 years without realizing what I need to do sooner.
 

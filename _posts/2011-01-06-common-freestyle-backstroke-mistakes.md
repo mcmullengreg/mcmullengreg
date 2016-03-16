@@ -30,6 +30,7 @@ tags:
   - swimming
   - swimming mistakes
   - swimming techique
+comments: true
 ---
 As a coach I see different mistakes that swimmers of all types make. I&#8217;m going to break down this and use some illustrations.
 

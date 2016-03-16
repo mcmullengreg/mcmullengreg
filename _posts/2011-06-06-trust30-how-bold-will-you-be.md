@@ -28,6 +28,7 @@ tags:
   - personal life
   - rational thought
   - Trust30
+comments: true
 ---
 
 > Our arts, our occupations, our marriages, our religion, we have not chosen, but society has chosen for us. We are parlour soldiers. We shun the rugged battle of fate, where strength is born. – Ralph Waldo Emerson

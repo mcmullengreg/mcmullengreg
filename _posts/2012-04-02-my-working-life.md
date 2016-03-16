@@ -10,6 +10,7 @@ tmac_last_id:
   - 9223372036854775807
 categories:
   - Personal
+comments: true
 ---
 People have asked me, why do you work so much? I didn&#8217;t really understand what they meant until this last year. Throughout the year, I work 3 different jobs which range, at times, from 5:30am until 8:00pm.
 

@@ -14,6 +14,7 @@ tags:
   - snow
   - snow day
 format: gallery
+comments: true
 ---
 Some photos put together from our daughter&#8217;s&nbsp;first experience in the snow. She actually enjoyed being out in the snow, our main concern was keeping her warm (and entertained) enough to get some pictures.
 {%comment%}

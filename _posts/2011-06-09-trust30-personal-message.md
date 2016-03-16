@@ -27,6 +27,7 @@ tags:
   - Personal
   - personal message
   - Trust30
+comments: true
 ---
 
 > To believe your own thought, to believe that what is true for you in your private heart is true for all men, that is genius. – Ralph Waldo Emerson

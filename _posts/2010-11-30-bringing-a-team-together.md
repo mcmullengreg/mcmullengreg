@@ -29,6 +29,7 @@ tags:
   - swimming
   - team building
   - teams
+comments: true
 ---
 I&#8217;m sitting on the bus on our way to Lawrence Central (and due to recent events the coaching staff needs to stagger their seating). I&#8217;m in the back of the bus with all the &#8220;close&#8221; swimmers you can really see the camaraderie between the team.
 

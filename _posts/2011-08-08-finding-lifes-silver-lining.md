@@ -24,6 +24,7 @@ tags:
   - sky
   - sun
 format: image
+comments: true
 ---
 I did something out of the ordinary the other day. I saw something that caught my eye (and had my camera) and decided to stop on the side of the road and snap a photo.
 

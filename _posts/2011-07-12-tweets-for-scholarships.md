@@ -29,6 +29,7 @@ tags:
   - tweets
   - twitter
 format: link
+comments: true
 ---
 I think it&#8217;s quite awesome that Social Media is involved? But are people taking it too far?
 

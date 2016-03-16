@@ -24,6 +24,7 @@ categories:
   - Personal
   - Photography
 format: gallery
+comments: true
 ---
 
 {% comment %} ADD PHOTOS {% endcomment %}

@@ -17,6 +17,7 @@ tags:
   - seo
   - Umbraco
   - umbraco page titles
+comments: true
 ---
 Since creating the first rendition of the [Structured Page Titles for Umbraco](http://code.gregoryamcmullen.com/2013/01/22/structured-umbraco-page-titles/ "Structured Umbraco Page Titles"), I decided it would be worthwhile to revisit and clean up the size of the file and make it much more readable. Umbraco makes it easy to define page titles, but this script helps reduce the repetitive nature of titles in larger sites.
 

@@ -32,6 +32,7 @@ tags:
   - photo
   - Photography
 format: image
+comments: true
 ---
 Decided to go to the Northwest Park Annex and take some pictures. Let me know what you think!
 

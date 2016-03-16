@@ -14,6 +14,7 @@ categories:
   - Life
   - Personal
 format: aside
+comments: true
 ---
 Today I am in County Cork, Cork City to be exact.
 

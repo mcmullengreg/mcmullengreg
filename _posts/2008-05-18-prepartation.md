@@ -7,6 +7,7 @@ layout: post
 guid: http://gregoryamcmullen.com/uncategorized/prepartation
 permalink: /life/prepartation/
 categories: life
+comments: true
 ---
 
 Well,

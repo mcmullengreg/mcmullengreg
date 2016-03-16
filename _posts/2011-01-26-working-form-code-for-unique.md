@@ -21,6 +21,7 @@ tmac_last_id:
   - 9223372036854775807
 categories:
   - Coding
+comments: true
 ---
 ### User Form
 

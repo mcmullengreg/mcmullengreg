@@ -26,6 +26,7 @@ categories:
 tags:
   - Social Media
 format: aside
+comments: true
 ---
 **What&#8217;s so important about Social Media?**
 

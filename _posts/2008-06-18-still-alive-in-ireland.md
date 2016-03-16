@@ -17,6 +17,7 @@ tags:
   - Ireland
   - travel
 format: status
+comments: true
 ---
 Hey,
 

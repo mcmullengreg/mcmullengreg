@@ -27,6 +27,7 @@ tags:
   - controversial
   - controversy
   - prejudice
+comments: true
 ---
 
 I was enjoying a pleasant experience at a suburban men&#8217;s clothing store the other day. My sales person, John was enthusiastically taking my money and I was excited about the clothing he had up-sold me. I only went in for a shirt…the alterations on my new sport coat and 2 pair of slacks would be ready in 2 days.

@@ -20,6 +20,7 @@ tags:
   - javascript
   - php
   - Putting forms on facebook
+comments: true
 ---
 While working today, I was having an issue finding information on how to add a lead capture form on our Facebook Page. Luckily I stumbled across this amazing post! [Submitting a Contact Form via AJAX From Your Facebook Page](http://illuminatikarate.com/blog/submitting-a-contact-form-via-ajax-from-your-facebook-page/)
 
