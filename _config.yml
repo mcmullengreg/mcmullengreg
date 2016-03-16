@@ -15,6 +15,9 @@ url: "http://gregoryamcmullen.com" # the base hostname & protocol for your site
 twitter_username: 	mcmullen_greg
 github_username:  	mcmullengreg
 
+# GTM Analytics ID
+GTM: GTM-PP3GKW
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
