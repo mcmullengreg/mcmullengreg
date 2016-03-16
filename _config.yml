@@ -16,7 +16,7 @@ twitter_username: 	mcmullen_greg
 github_username:  	mcmullengreg
 
 # GTM Analytics ID
-GTM: GTM-PP3GKW
+GTM: "GTM-PP3GKW"
 
 # Build settings
 markdown: kramdown
