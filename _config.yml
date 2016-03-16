@@ -22,5 +22,5 @@ GTM: "GTM-PP3GKW"
 markdown: kramdown
 permalink: /:categories/:title
 
-gem: 
+gems: 
   - jekyll-sitemap
