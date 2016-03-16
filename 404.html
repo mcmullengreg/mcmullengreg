@@ -14,13 +14,13 @@ If you are trying to find a category or tag page, stop. They don't exist anymore
 	    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 		
 	    {% if forloop.first %}
-		    <li><a href="{{ "blog" | prepend: site.baseurl }}{{ this_year }}-ref">{{this_year}}</a></li>
+		    <li><a href="{{ "blog" | prepend: site.baseurl }}#{{ this_year }}-ref">{{this_year}}</a></li>
 	    {% endif %}
 	
 	    {% if forloop.last %}
 	    {% else %}
 	        {% if this_year != next_year %}
-	        <li><a href="{{ "blog" | prepend: site.baseurl }}{{ next_year }}-ref">{{next_year}}</a></li>
+	        <li><a href="{{ "blog" | prepend: site.baseurl }}#{{ next_year }}-ref">{{next_year}}</a></li>
 	        {% endif %}
 	    {% endif %}	
 	{% endfor %}

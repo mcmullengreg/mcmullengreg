@@ -148,3 +148,11 @@ blockquote{
 		columns: 3;
 	}
 }
+
+.hashlink {
+	@include media($tablet){
+	    height: 103px;
+	    margin-top: -103px;
+	    visibility: hidden;		
+	}
+}
