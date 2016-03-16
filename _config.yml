@@ -21,3 +21,6 @@ GTM: "GTM-PP3GKW"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
+
+gem: 
+  - jekyll-sitemap
