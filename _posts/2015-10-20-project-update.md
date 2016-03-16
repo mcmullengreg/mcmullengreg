@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Update"
-date:   2015-10-20 10:00:00
+author: Greg McMullen
 categories: code
 comments: true
 ---

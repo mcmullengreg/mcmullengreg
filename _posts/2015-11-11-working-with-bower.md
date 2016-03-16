@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working with Bower"
-date:   2015-11-11 10:09:00
+author: Greg McMullen
 categories: code
 comments: true
 ---

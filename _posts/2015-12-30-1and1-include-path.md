@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "1and1.com PHP Include Path"
-date:   2015-12-30 15:40:00
+author: Greg McMullen
+
 categories: code
 comments: true
 ---
