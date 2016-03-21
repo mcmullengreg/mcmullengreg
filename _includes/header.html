@@ -6,17 +6,9 @@
 			</a>
 		</h1>
 	</div>
-	<div class="menu-icon">
-		<a class="nav-toggle" aria-label="Toggle navigation">
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-		</a>
-	</div>
-	
+
 	{% assign pages = site.pages | sort: "weight" %}
-	
+
 	<div class="nav left">
 		{% for node in pages %}
 			{% if node.menu == "left" %}
@@ -25,7 +17,7 @@
 			{% endif %}
 		{% endfor %}
 	</div>
-	
+
 	<div class="nav right">
 		{% for node in pages %}
 			{% if node.menu == "right" %}

@@ -9,22 +9,19 @@ main{
 	@include outer-container(800px);
 	margin: 0.5rem auto;
 	
-	@include media($tablet){
-		margin: 7rem auto 2rem;
-	}
 	.section-heading{
 		margin: 0;
 		color: $color3;
 	}
-	
+
 	.post-meta{
 		color: darken($color2, 35%);
 	}
-	
+
 	img{
 		max-width: 100% !important;
 	}
-	
+
 	.posts{
 		@include pad();
 		.section-heading{
@@ -35,26 +32,26 @@ main{
 			border-bottom: dotted 1px $color2;
 			margin: 1.25rem 0;
 			color: #46494c;
-			
+
 			~ .post-content{
 				border-top: dotted 1px $color2;
-			}		
+			}
 			+ .post-content{
 				border:none;
 			}
 		}
 	}
-	
+
 	a{
 		text-decoration: none;
 		color:$color5;
 		border-bottom: dotted 1px $color2;
-		
+
 		&:hover, &:focus{
 			color:darken($color5, 15%);
 		}
 	}
-	
+
 	@include media($tablet){
 		.git-repo{
 			columns:2;
@@ -73,18 +70,18 @@ main{
 
 .hp{
 	@include pad();
-	
+
 	header{
 		border-top: solid 1px $color1;
 		border-bottom: solid 1px $color1;
 	}
-	
+
 	&#about{
 		text-align: center;
-				
+
 		header{
 			border:none;
-			
+
 			img{
 				border-radius: 8px;
 				margin-bottom:1rem;
@@ -94,11 +91,11 @@ main{
 			}
 		}
 	}
-	
+
 	&#coaching{
-			
+
 	}
-	
+
 	&#blog{
 		.post-content:not(:last-child){
 			border-bottom: dotted 1px $color2;
@@ -153,6 +150,6 @@ blockquote{
 	@include media($tablet){
 	    height: 103px;
 	    margin-top: -103px;
-	    visibility: hidden;		
+	    visibility: hidden;
 	}
 }
