@@ -9,24 +9,20 @@ menu: right
 excerpt: Listing of blog posts authored or endorsed by Greg McMullen.
 ---
 <section class="posts">
-	<header>
-		<h1 class="section-heading">Latest Posts</h1>
-	</header>
 	{% for post in site.posts  %}
 	    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 	    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-	
+
 	    {% if forloop.first %}
 		    <h2 class="year-heading" id="{{ this_year }}-ref">{{this_year}}</h2>
 	    {% endif %}
-		
+
 		<div class="post-content">
 		    <h3 class="post-heading"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 		    <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
 		    <p>{{ post.excerpt }}</p>
-		    <p><a href="{{ post.url }}">Read more &raquo;</a></p>
 		</div>
-	
+
 	    {% if forloop.last %}
 	    {% else %}
 	        {% if this_year != next_year %}
@@ -35,5 +31,3 @@ excerpt: Listing of blog posts authored or endorsed by Greg McMullen.
 	    {% endif %}
 	{% endfor %}
 </section>
-
-

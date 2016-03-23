@@ -8,7 +8,7 @@ body{
 main{
 	@include outer-container(800px);
 	margin: 0.5rem auto;
-	
+
 	.section-heading{
 		margin: 0;
 		color: $color3;
@@ -21,7 +21,11 @@ main{
 	img{
 		max-width: 100% !important;
 	}
-
+	.post{
+		.post-meta{
+			text-align:center;
+		}
+	}
 	.posts{
 		@include pad();
 		.section-heading{
@@ -32,12 +36,15 @@ main{
 			border-bottom: dotted 1px $color2;
 			margin: 1.25rem 0;
 			color: #46494c;
+			text-align:center;
 
 			~ .post-content{
 				border-top: dotted 1px $color2;
+				padding:1.5rem 0;
 			}
 			+ .post-content{
 				border:none;
+				padding-top:0;
 			}
 		}
 	}
@@ -97,8 +104,12 @@ main{
 	}
 
 	&#blog{
-		.post-content:not(:last-child){
-			border-bottom: dotted 1px $color2;
+		.post-content{
+			padding:1.5rem 0;
+		}
+		.post-content:not(:first-of-type){
+			border-top: dotted 1px $color2;
+			padding-top:0;
 		}
 	}
 }
@@ -115,11 +126,12 @@ main{
 .view-blog{
 	text-align: center;
 	a{
-		color: darken($color2, 35%);
+		color: darken($color5, 15%);
 		border-radius: 4px;
 		padding:0.25rem 0.5rem;
-		border: solid 1px darken($color2, 35%);
+		border: solid 1px darken($color5, 15%);
 		transition: background 500ms ease, border 500ms ease, color 500ms ease;
+		font-size:1.25rem;
 		&:hover, &:focus{
 			border: solid 1px darken($color5, 15%);
 			background: darken($color5, 15%);
