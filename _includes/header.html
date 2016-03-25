@@ -13,7 +13,9 @@
 		{% for node in pages %}
 			{% if node.menu == "left" %}
 				{% capture nodediff %}{{ page.url | remove:node.url }}{% endcapture %}
-				<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url }}">{% if node.link-text %} {{ node.link-text }} {% else %}{{ node.title }} {% endif %}</a>
+				{% unless node.url contains '/page' %}
+					<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url | prepend: site.baseurl | remove: "index.html" }}">{% if node.link-text %}{{ node.link-text }}{% else %}{{ node.title }} {% endif %}</a>
+				{% endunless %}
 			{% endif %}
 		{% endfor %}
 	</div>
@@ -22,7 +24,9 @@
 		{% for node in pages %}
 			{% if node.menu == "right" %}
 				{% capture nodediff %}{{ page.url | remove:node.url }}{% endcapture %}
-				<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url }}">{% if node.link-text %} {{ node.link-text }} {% else %}{{ node.title }} {% endif %}</a>
+				{% unless node.url contains '/page' %}
+					<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url | prepend: site.baseurl | remove: "index.html" }}">{% if node.link-text %} {{ node.link-text }}{% else %}{{ node.title }}{% endif %}</a>
+				{% endunless %}
 			{% endif %}
 		{% endfor %}
 	</div>

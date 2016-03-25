@@ -29,7 +29,9 @@
 		{% assign pages = site.pages | sort: "weight" %}
 		{% for node in pages %}
 			{% if node.title != nil and node.error != true %}
-				<a href="{{node.url | prepend: site.base_url }}">{% if node.link-text %} {{ node.link-text }} {% else %} {{ node.title }} {% endif %}</a>
+				{% unless node.url contains '/page' %}
+				<a href="{{node.url | prepend: site.base_url | remove: "index.html" }}">{% if node.link-text %} {{ node.link-text }} {% else %} {{ node.title }} {% endif %}</a>
+				{% endunless %}
 			{% endif %}
 		{% endfor %}
 	</div>

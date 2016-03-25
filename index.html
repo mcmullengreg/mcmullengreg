@@ -24,8 +24,7 @@ layout: default
 	<header>
 		<h2 class="section-heading">Recent Posts</h2>
 	</header>
-
-	{% for post in site.posts limit: 5 %}
+	{% for post in site.posts limit: site.paginate %}
 		<div class="post-content">
 			<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 			<p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
@@ -33,7 +32,9 @@ layout: default
 		</div>
 	{% endfor %}
 
-	{% if site.posts.size > 5 %}
-		<p class="view-blog"><a href="{{ "/blog" | prepend: site.baseurl }}">View more posts &raquo;</a></p>
+	{% if site.posts.size > site.paginate %}
+		<div class="pagination">
+			<a href="/blog/page2/" class="next">More posts &raquo;</a>
+		</div>
 	{% endif %}
 </section>

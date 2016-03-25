@@ -26,27 +26,12 @@ main{
 			text-align:center;
 		}
 	}
-	.posts{
-		@include pad();
-		.section-heading{
-			text-align: center;
-		}
-		.year-heading{
-			border-top: dotted 1px $color2;
-			border-bottom: dotted 1px $color2;
-			margin: 1.25rem 0;
-			color: #46494c;
-			text-align:center;
-
-			~ .post-content{
-				border-top: dotted 1px $color2;
-				padding:1.5rem 0;
-			}
-			+ .post-content{
-				border:none;
-				padding-top:0;
-			}
-		}
+	.post-content{
+		padding:1.5rem 0;
+	}
+	.post-content:not(:first-of-type){
+		border-top: dotted 1px $color2;
+		padding-top:0;
 	}
 
 	a{
@@ -108,16 +93,6 @@ main{
 	&#coaching{
 
 	}
-
-	&#blog{
-		.post-content{
-			padding:1.5rem 0;
-		}
-		.post-content:not(:first-of-type){
-			border-top: dotted 1px $color2;
-			padding-top:0;
-		}
-	}
 }
 
 .page-nav{
@@ -169,5 +144,23 @@ blockquote{
 	    height: 103px;
 	    margin-top: -103px;
 	    visibility: hidden;
+	}
+}
+
+.pagination{
+	margin-bottom: 2.5rem;
+	text-align:center;
+	.next,.previous{
+		background:white;
+		padding: 0.75rem;
+		border-radius: 8px;
+		margin:0 0.5rem;
+		border:none;
+		transition: background 250ms ease, color 250ms ease;
+		display:inline-block;
+		&:hover{
+			background: $color5;
+			color: white;
+		}
 	}
 }
