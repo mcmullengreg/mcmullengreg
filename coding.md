@@ -6,10 +6,11 @@ permalink: /coding/
 
 weight: 2
 menu: left
-hp_title: 
+hp_title:
 hp_content:
 
 excerpt: Greg McMullen's past, present and public projects.
+redirect_from: /projects/
 ---
 
 Below is a select list of projects that Greg is working on, or has worked on in the past.
@@ -36,9 +37,9 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 ### Past Projects
 
 * [Xavier Univeristy](http://www.xavier.edu) - (Current role)
-  * Lead Developer for initial V4 project 
+  * Lead Developer for initial V4 project
     - Developed and actively maintain CMS template and non-CMS based tempates (CFML). Created template documentation.
-  * Lead Developer for Road to Xavier 
+  * Lead Developer for Road to Xavier
     - Designed/Developed HTML architecture for mobile-friendly framework
 * [Rose-Hulman Institute of Technology](http://www.rose-hulman.edu) - 2012-2014
   * CMS was Umbraco, developed two macros for use on the Rose-Hulman website (CSHTML)
@@ -49,7 +50,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
   * Transitioned website from static HTML to WordPress for content management
   * Managed SEO and email campaigns
   * Website is no longer an iteration of what was in place in 2012
-  
+
 ### Public Repositories
 
 These are repositories that I've set up on my personal GitHub account. Most of them are unfinished projects or ones that I have no use for anymore. If you are interested in maintaining or updating any of these, let me know.
