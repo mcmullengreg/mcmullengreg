@@ -9,8 +9,8 @@ layout: default
 				{% if node.hp_title %}
 					<h2 class="section-heading">{{ node.hp_title }}</h2>
 				{% elsif node.url == "/about/" %}
-					<img src="{{ node.hp_image }}" alt="" />
-					<p class="section-heading">{{ node.hp_content }}</p>
+					<img src="{{ node.hp_image }}" alt="Avatar for Greg McMullen" />
+					<h2 class="section-heading">{{ node.hp_content }}</h2>
 				{% endif %}
 			</header>
 			{% if node.url == "/coding/" or node.url =='/coaching/' %}
