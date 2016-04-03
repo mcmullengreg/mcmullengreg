@@ -55,4 +55,6 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 
 These are repositories that I've set up on my personal GitHub account. Most of them are unfinished projects or ones that I have no use for anymore. If you are interested in maintaining or updating any of these, let me know.
 
-{% for repository in site.github.public_repositories %}* [{{ repository.name }}]({{ repository.html_url }}){% endfor %}
+{% for repository in site.github.public_repositories %}
+* [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
