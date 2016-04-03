@@ -37,9 +37,9 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 ### Past Projects
 
 * [Xavier Univeristy](http://www.xavier.edu) - (Current role)
-  * Lead Developer for initial V4 project
-    - Developed and actively maintain CMS template and non-CMS based tempates (CFML). Created template documentation.
-  * Lead Developer for Road to Xavier
+  * Lead Developer for initial V4 project (2015-16)
+    - Developed and actively maintain CMS template and non-CMS based templates (CFML). Created template documentation.
+  * Lead Developer for Road to Xavier (2014)
     - Designed/Developed HTML architecture for mobile-friendly framework
 * [Rose-Hulman Institute of Technology](http://www.rose-hulman.edu) - 2012-2014
   * CMS was Umbraco, developed two macros for use on the Rose-Hulman website (CSHTML)
