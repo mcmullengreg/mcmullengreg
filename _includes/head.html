@@ -2,16 +2,16 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.url == '/' %}{{ site.description }}{% endif %}">
-	
+
 	<link href='https://fonts.googleapis.com/css?family=Lobster+Two|Cabin:400,600' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-	<link rel="alternate" hreflang="en-us" href="http://gregoryamcmullen.com/" />
-		
+	<link rel="alternate" hreflang="en-us" href="{{ page.url | prepend: site.baseurl }}" />
+
 	<link rel="apple-touch-icon" sizes="57x57" href="{{ "/img/icons/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="60x60" href="{{ "/img/icons/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="72x72" href="{{ "/img/icons/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
