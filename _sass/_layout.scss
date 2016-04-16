@@ -93,35 +93,6 @@ main{
     margin-bottom: $spacing-unit / 2;
 }
 
-.hp{
-	@include pad();
-
-	header{
-		border-top: solid 1px $color1;
-		border-bottom: solid 1px $color1;
-	}
-
-	&#about{
-		text-align: center;
-
-		header{
-			border:none;
-
-			img{
-				border-radius: 8px;
-				margin-bottom:1rem;
-			}
-			.section-heading{
-				font-size:1.5rem;
-			}
-		}
-	}
-
-	&#coaching{
-
-	}
-}
-
 .page-nav{
 	.next{
 		float:right;

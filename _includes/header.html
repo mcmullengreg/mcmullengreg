@@ -11,21 +11,10 @@
 
 	<div class="nav left">
 		{% for node in pages %}
-			{% if node.menu == "left" %}
+			{% if node.menu == "left" or node.menu == "right" %}
 				{% capture nodediff %}{{ page.url | remove:node.url }}{% endcapture %}
 				{% unless node.url contains '/page' %}
 					<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url | prepend: site.baseurl | remove: "index.html" }}">{% if node.link-text %}{{ node.link-text }}{% else %}{{ node.title }} {% endif %}</a>
-				{% endunless %}
-			{% endif %}
-		{% endfor %}
-	</div>
-
-	<div class="nav right">
-		{% for node in pages %}
-			{% if node.menu == "right" %}
-				{% capture nodediff %}{{ page.url | remove:node.url }}{% endcapture %}
-				{% unless node.url contains '/page' %}
-					<a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url | prepend: site.baseurl | remove: "index.html" }}">{% if node.link-text %} {{ node.link-text }}{% else %}{{ node.title }}{% endif %}</a>
 				{% endunless %}
 			{% endif %}
 		{% endfor %}

@@ -1,40 +1,30 @@
 ---
 layout: default
 ---
-{% assign pages = site.pages | sort: "weight" %}
-{% for node in pages %}
-	{% if node.hp_title or node.hp_content and node.url != '/' %}
-		<section class="hp" id="{{ node.url | remove: '/' }}">
-			<header>
-				{% if node.hp_title %}
-					<h2 class="section-heading">{{ node.hp_title }}</h2>
-				{% elsif node.url == "/about/" %}
-					<img src="{{ node.hp_image }}" alt="Avatar for Greg McMullen" />
-					<h2 class="section-heading">{{ node.hp_content }}</h2>
-				{% endif %}
-			</header>
-			{% if node.url == "/coding/" or node.url =='/coaching/' %}
-				{{ node.hp_content }}
-			{% endif %}
-		</section>
-	{% endif %}
-{% endfor %}
 
-<section id="blog" class="hp">
-	<header>
-		<h2 class="section-heading">Recent Posts</h2>
-	</header>
-	{% for post in site.posts limit: site.paginate %}
-		<div class="post-content">
-			<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-			<p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
-			<p>{{ post.excerpt }}</p>
-		</div>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	{% for post in site.posts limit: 1 %}
+	<div class="post-content">
+		<header class="post-header">
+    		<h1 class="post-title" itemprop="name headline">
+				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</h1>
+    		<p class="post-meta">
+				<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}
+			</p>
+	    </header>
+
+    	<div class="post-content" itemprop="articleBody">
+    		{{ post.content }}
+    	</div>
 	{% endfor %}
+</article>
 
-	{% if site.posts.size > site.paginate %}
-		<div class="pagination">
-			<a href="/blog/page/2/" class="next">More posts &raquo;</a>
-		</div>
-	{% endif %}
-</section>
+{% for post in site.posts limit: 1 offset: 1 %}
+	<div class="page-nav">
+		<a class="prev" href="{{ post.url }}">&laquo; {{ post.title }}</a>
+	</div>
+	<div class="add-comment">
+		<a href="{{ post.url }}">Comment on this article</a>
+	</div>
+{% endfor %}

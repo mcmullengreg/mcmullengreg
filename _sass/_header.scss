@@ -7,29 +7,11 @@
 	.heading-container {
 		@include span-columns(12);
 		@include pad();
-
-		@include media($tablet){
-			@include span-columns(4);
-		}
 	}
 	.nav{
 		display:inline-block;
  		@include pad(0.5rem 0);
 		text-align: center;
-
-		@include media($tablet){
-			@include span-columns(4);
-			@include pad();
-			&.left{
-				@include shift(-8);
-			}
-		}
-	}
-
-	@include media($tablet){
-		.heading-container{
-			@include shift(4);
-		}
 	}
 
 	#site-heading{
