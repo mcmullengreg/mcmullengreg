@@ -1,6 +1,6 @@
 ---
 id: 12875
-title: 'Baby's First Snow Day'
+title: Baby's First Snow Day
 date: 2015-02-17T21:29:43+00:00
 author: Greg McMullen
 layout: post
