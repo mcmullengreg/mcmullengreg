@@ -1,4 +1,4 @@
-<footer id="site-footer" role="contentinfo">
+<footer id="site-footer">
 	<div class="social">
 		{% if site.github_username %}
 	        {% include icon-github.html username=site.github_username %}
@@ -38,7 +38,7 @@
 
 	<div class="colophon">
 		<!-- Site footer, may contain sophisticated columns or basic copyright information -->
-		<p>&copy; <span datetime="{{ site.time | date: "%Y" }}">{{ site.time | date: "%Y" }}</span> {{ site.title }} &bull; Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a></p>
+		<p>&copy; <time datetime="{{ site.time | date: "%Y" }}">{{ site.time | date: "%Y" }}</time> {{ site.title }} &bull; Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a></p>
 	</div>
 
 </footer>
