@@ -102,23 +102,6 @@ main{
 	}
 }
 
-.view-blog{
-	text-align: center;
-	a{
-		color: darken($color5, 15%);
-		border-radius: 4px;
-		padding:0.25rem 0.5rem;
-		border: solid 1px darken($color5, 15%);
-		transition: background 500ms ease, border 500ms ease, color 500ms ease;
-		font-size:1.25rem;
-		&:hover, &:focus{
-			border: solid 1px darken($color5, 15%);
-			background: darken($color5, 15%);
-			color:white;
-		}
-	}
-}
-
 blockquote{
 	border-left: solid 5px $color2;
 	background: white;
