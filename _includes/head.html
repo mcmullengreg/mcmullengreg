@@ -5,7 +5,6 @@
 	<title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.url == '/' %}{{ site.description }}{% endif %}">
 
-	<link href='https://fonts.googleapis.com/css?family=Lobster+Two%7CCabin:400,600' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
