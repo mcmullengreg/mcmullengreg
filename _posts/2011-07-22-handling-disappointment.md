@@ -2,22 +2,12 @@
 id: 10561
 title: Do You Handle Disappointment?
 date: 2011-07-22T11:53:03+00:00
-author: Greg McMullen
-layout: post
+header:
+  teaser: swim-teaser.jpg
+
 guid: http://gregoryamcmullen.com/?p=10561
 permalink: /coaching/handling-disappointment/
-dsq_thread_id:
-  - 365385185
-shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://gregoryamcmullen.com/life/handling-disappointment";s:7:"tinyurl";s:26:"http://tinyurl.com/43m5rws";s:4:"isgd";s:19:"http://is.gd/jWIACu";}'
-tweetbackscheck:
-  - 1311597537
-twittercomments:
-  - 'a:2:{s:17:"94450399632830464";s:7:"retweet";s:17:"94445097751552000";s:7:"retweet";}'
-tweetcount:
-  - 2
-tmac_last_id:
-  - 322482958915223553
+
 categories:
   - Coaching
   - Life
@@ -27,7 +17,7 @@ tags:
   - Greg McMullen
   - losing
   - personal life
-comments: true
+
 ---
 > Success is Peace of Mind which is a direct result of self satisfaction in knowing you made the effort to do the best of which you are capable.
   - John Wooden
@@ -51,7 +41,6 @@ These things are more important than winning. While it can help boost a team&#82
 So how do you manage to overcome disappointment? Are you irritated when you lose or are you happy to get a chance? Share your thoughts.
 
 **Team Building Posts**
-  
-[13 Steps to Building a Great Team](http://blog.tkographix.com/post/4836846787/13-steps-to-building-a-great-team)
-  
-[11 Tips for Team Success](http://blog.tkographix.com/post/5396136403/11-tips-for-team-success)
+
+- [13 Steps to Building a Great Team](http://blog.tkographix.com/post/4836846787/13-steps-to-building-a-great-team)
+- [11 Tips for Team Success](http://blog.tkographix.com/post/5396136403/11-tips-for-team-success)

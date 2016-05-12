@@ -2,12 +2,11 @@
 id: 11204
 title: Ireland Study Abroad
 date: 2008-05-18T15:57:00+00:00
-author: Greg McMullen
-layout: post
-guid: http://gregoryamcmullen.com/uncategorized/prepartation
-permalink: /life/prepartation/
+
+permalink: /life/preparation/
 categories: life
-comments: true
+redirect-from:
+  - /life/prepartation/
 ---
 
 Well,
@@ -19,5 +18,5 @@ I will be attending a second round of &#8220;Ireland trippers&#8221; and will be
 Alright, well as far as a first post I&#8217;d say that this pretty much covers it. Hope you enjoy your summer, cuz I know I will enjoy those two weeks!!!!!!!
 
 That&#8217;s all for now,
-  
+
 Greg

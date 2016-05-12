@@ -2,8 +2,11 @@
 id: 14158
 title: A Thanksgiving Treat
 date: 2015-11-26T00:30:33+00:00
-author: Greg McMullen
-layout: post
+
+header:
+  teaser: posts/mini-pie-teaser.jpg
+  image: posts/mini-pie-header.jpg
+  
 guid: http://gregoryamcmullen.com/?p=14158
 permalink: /cooking/a-thanksgiving-treat/
 categories:
@@ -12,8 +15,9 @@ tags:
   - dessert
   - holiday treat
   - mini apple pie
-comments: true
+
 ---
+
 With Thanksgiving right around the corner, my wife had the idea to make some mini apple pies to bring to the family gathering since we had leftover apples from [Backyard Orchard](https://www.facebook.com/BackyardOrchard/).
 
 I&#8217;ve been using an apple pie recipe from the&nbsp;Moms Who Think website (no, it&#8217;s not&nbsp;_just_ for moms) and have fallen in love with the [Apple Crumb Pie](http://www.momswhothink.com/pie-recipes/apple-crumb-pie-recipe.html) and their [butter crust](http://www.momswhothink.com/pie-recipes/pie-crust-recipe.html) recipes. If I can make it, so can you.

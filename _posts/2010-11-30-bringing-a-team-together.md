@@ -2,8 +2,9 @@
 id: 8481
 title: Bringing a Team Together
 date: 2010-11-30T16:25:15+00:00
-author: Greg McMullen
-layout: post
+header:
+  teaser: swim-teaser.jpg
+
 guid: http://gregoryamcmullen.com/uncategorized/bringing-a-team-together
 permalink: /coaching/bringing-a-team-together/
 seo_follow:
@@ -13,7 +14,7 @@ dsq_thread_id:
 shorturls:
   - 'a:3:{s:9:"permalink";s:61:"http://gregoryamcmullen.com/personal/bringing-a-team-together";s:7:"tinyurl";s:26:"http://tinyurl.com/3unv3t2";s:4:"isgd";s:19:"http://is.gd/GJsHdh";}'
 tweetbackscheck:
-  - 
+  -
 twittercomments:
   - 'a:0:{}'
 tweetcount:
@@ -29,7 +30,7 @@ tags:
   - swimming
   - team building
   - teams
-comments: true
+
 ---
 I&#8217;m sitting on the bus on our way to Lawrence Central (and due to recent events the coaching staff needs to stagger their seating). I&#8217;m in the back of the bus with all the &#8220;close&#8221; swimmers you can really see the camaraderie between the team.
 

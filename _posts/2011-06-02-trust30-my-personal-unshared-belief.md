@@ -2,8 +2,8 @@
 id: 10310
 title: '#trust30: My Personal (un)Shared Belief'
 date: 2011-06-02T19:16:40+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10310
 permalink: /trust30/trust30-my-personal-unshared-belief/
 dsq_thread_id:
@@ -27,7 +27,7 @@ tags:
   - personal life
   - personal marketing
   - work and personal life
-comments: true
+
 ---
 
 > It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude. &#8211; Ralph Waldo Emerson, Self-Reliance

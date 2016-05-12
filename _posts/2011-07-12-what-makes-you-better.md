@@ -2,22 +2,12 @@
 id: 10524
 title: 'What Makes you &#8216;Better&#8217;?'
 date: 2011-07-12T13:41:11+00:00
-author: Greg McMullen
-layout: post
+
+header:
+  teaser: swim-teaser.jpg
 guid: http://gregoryamcmullen.com/?p=10524
 permalink: /coaching/what-makes-you-better/
-twittercomments:
-  - 'a:0:{}'
-tweetcount:
-  - 0
-tweetbackscheck:
-  - 1311345598
-shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://gregoryamcmullen.com/coaching/what-makes-you-better";s:7:"tinyurl";s:26:"http://tinyurl.com/3pdjcb6";s:4:"isgd";s:19:"http://is.gd/Txk429";}'
-dsq_thread_id:
-  - 356487822
-tmac_last_id:
-  - 9223372036854775807
+
 categories:
   - Coaching
 tags:
@@ -27,8 +17,8 @@ tags:
   - Greg McMullen
   - interview
   - job interview
-format: aside
-comments: true
+
+
 ---
 I was recently interviewed for a head coach job at my old swim club, [South Dearborn Swimming](http://southdearbornswimming.org/). I surprised myself when I was asked the question.
 

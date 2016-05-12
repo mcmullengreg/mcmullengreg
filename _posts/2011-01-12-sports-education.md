@@ -2,8 +2,9 @@
 id: 10019
 title: Sports and Education
 date: 2011-01-12T11:29:26+00:00
-author: Greg McMullen
-layout: post
+
+header:
+  teaser: swim-teaser.jpg
 guid: http://gregoryamcmullen.com/?p=10019
 permalink: /coaching/sports-education/
 dsq_thread_id:
@@ -11,7 +12,7 @@ dsq_thread_id:
 shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://gregoryamcmullen.com/personal/sports-education";s:7:"tinyurl";s:26:"http://tinyurl.com/3umrl99";s:4:"isgd";s:19:"http://is.gd/ci5cTl";}'
 tweetbackscheck:
-  - 
+  -
 twittercomments:
   - 'a:0:{}'
 tweetcount:
@@ -28,7 +29,7 @@ tags:
   - indiana
   - team building
   - teams
-comments: true
+
 ---
 Now, to start things off I&#8217;m a little upset and frustrated at this quote from Cam Newton after the Auburn Tigers beat the Oregon Ducks in the BCS Title game. So if this seems a little off topic, I want to apologize.
 

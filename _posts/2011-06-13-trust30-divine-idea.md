@@ -2,8 +2,8 @@
 id: 10480
 title: '#trust30: Divine Idea'
 date: 2011-06-13T12:06:48+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10480
 permalink: /trust30/trust30-divine-idea/
 dsq_thread_id:
@@ -27,7 +27,7 @@ tags:
   - personal life
   - Trust30
   - work and personal life
-comments: true
+
 ---
 > Imitation is Suicide. Insist on yourself; never imitate. – Ralph Waldo Emerson
 

@@ -3,23 +3,12 @@ id: 4161
 title: Are You Happy?
 date: 2010-09-27T10:30:35+00:00
 author: Randy Clark
-layout: post
-guid: http://gregoryamcmullen.com/?p=4161
+
 permalink: /life/are-you-happy/
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 321426060
-shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://gregoryamcmullen.com/marketing/are-you-happy";s:7:"tinyurl";s:26:"http://tinyurl.com/4yhyrbs";s:4:"isgd";s:19:"http://is.gd/JUusTq";}'
-tweetbackscheck:
-  - 
-twittercomments:
-  - 'a:0:{}'
-tweetcount:
-  - 0
-tmac_last_id:
-  - 9223372036854775807
+
 categories:
   - Guest post
   - Life
@@ -29,7 +18,7 @@ tags:
   - job satisfaction
   - making work fun
   - work and personal life
-comments: true
+
 ---
 Recently, over lunch, Greg asked if I would guest post about separating work and Life. As I considered what I would like to share, I realized how many different approaches were available on this subject. Do I talk of social media and how difficult it is to separate work from social media 24/7? How about strategies to balance your life? How to make work fun or eliminate stress? I could talk about balancing work, family, spiritual, and personal time. Should I explore employee and employer responsibilities?
 

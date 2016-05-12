@@ -2,8 +2,8 @@
 id: 10384
 title: '#trust30: Travel'
 date: 2011-06-04T12:11:09+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10384
 permalink: /trust30/trust30-travel/
 dsq_thread_id:
@@ -28,7 +28,7 @@ tags:
   - Personal
   - travel
   - Trust30
-comments: true
+
 ---
 > If we live truly, we shall see truly. &#8211; Ralph Waldo Emerson
 

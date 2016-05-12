@@ -2,8 +2,8 @@
 id: 10114
 title: Healthier Living
 date: 2011-03-23T10:49:07+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10114
 permalink: /life/healthier-living/
 dsq_thread_id:
@@ -25,7 +25,7 @@ tags:
   - excercise
   - health
   - healthy living
-comments: true
+
 ---
 So as I&#8217;m progressing through my 20s I&#8217;ve realized that I&#8217;m no where near where I need to be in regards to my health. It&#8217;s always a shock as to how I&#8217;ve been able to get these last 4 to 5 years without realizing what I need to do sooner.
 

@@ -1,9 +1,9 @@
 ---
-layout: post
+
 title:  "Project Update"
-author: Greg McMullen
+
 categories: code
-comments: true
+
 ---
 
 After a beginning minor development in PHP for the temp v4 project, I've decided to go ahead and install a ColdFusion development server locally 

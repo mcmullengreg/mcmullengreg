@@ -2,8 +2,8 @@
 id: 10453
 title: Help Change Stalking Laws
 date: 2011-06-07T14:03:30+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10453
 permalink: /life/help-change-stalking-laws/
 dsq_thread_id:
@@ -26,7 +26,7 @@ tags:
   - stalkers
   - stalking
   - stalking laws
-comments: true
+
 ---
 How You Can Help
 

@@ -2,8 +2,8 @@
 id: 10448
 title: '#trust30: 5 Years, Before and After'
 date: 2011-06-07T09:29:06+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10448
 permalink: /trust30/trust30-5-years-before-and-after/
 dsq_thread_id:
@@ -26,7 +26,7 @@ tags:
   - Life
   - personal life
   - Trust30
-comments: true
+
 ---
 > There will be an agreement in whatever variety of actions, so they be each honest and natural in their hour. – Ralph Waldo Emerson
 

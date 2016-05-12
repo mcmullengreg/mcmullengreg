@@ -2,8 +2,9 @@
 id: 10722
 title: Taking Risks; Meeting Opportunity
 date: 2011-08-31T21:51:46+00:00
-author: Greg McMullen
-layout: post
+header:
+  teaser: swim-teaser.jpg
+
 guid: http://gregoryamcmullen.com/?p=10722
 permalink: /life/taking-risks-meeting-opportunity/
 tmac_last_id:
@@ -18,7 +19,7 @@ tags:
   - employment
   - Greg McMullen
   - risk
-comments: true
+
 ---
 
 Recently I was talking to an online acquaintance regarding the process of making tough decisions. My question to you is __why are you afraid to take the risks that will make you happy?__

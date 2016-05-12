@@ -2,14 +2,12 @@
 id: 10619
 title: Determining your Motivation Style
 date: 2011-07-26T08:54:02+00:00
-author: Greg McMullen
-layout: post
-guid: http://gregoryamcmullen.com/?p=10619
+
+header:
+  teaser: swim-teaser.jpg
+
 permalink: /coaching/determining-your-motivation-style/
-dsq_thread_id:
-  - 368953970
-tmac_last_id:
-  - 322482958915223553
+
 categories:
   - Coaching
 tags:
@@ -19,7 +17,7 @@ tags:
   - motivating athletes
   - Motivation
   - sports
-comments: true
+
 ---
 If you&#8217;ve ever watched a college basketball game, the coaching staff in the locker room is trying to &#8220;psych&#8221; up the team. Sometimes it works; however, it also creates undue stress in what could be your top performers.
 

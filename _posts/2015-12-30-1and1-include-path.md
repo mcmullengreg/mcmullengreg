@@ -1,10 +1,10 @@
 ---
-layout: post
+
 title:  "1and1.com PHP Include Path"
-author: Greg McMullen
+
 
 categories: code
-comments: true
+
 ---
 
 I've been working on revising the code for [OurMenuMaker.com](http://ourmenumaker.com) and had been 

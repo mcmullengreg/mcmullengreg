@@ -2,8 +2,8 @@
 id: 11199
 title: Still Alive in Ireland
 date: 2008-06-18T08:21:00+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/uncategorized/still-alive-in-ireland
 permalink: /life/still-alive-in-ireland/
 blogger_blog:
@@ -17,7 +17,7 @@ tags:
   - Ireland
   - travel
 format: status
-comments: true
+
 ---
 Hey,
 

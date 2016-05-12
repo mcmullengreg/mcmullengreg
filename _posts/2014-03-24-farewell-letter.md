@@ -2,14 +2,16 @@
 id: 12269
 title: A Farewell Letter
 date: 2014-03-24T09:24:21+00:00
-author: Greg McMullen
-layout: post
+
+header:
+  - teaser: swim-teaser.jpg
+
 guid: http://gregoryamcmullen.com/?p=12269
 permalink: /coaching/farewell-letter/
 categories:
   - Coaching
   - Memories
-comments: true
+
 ---
 As many of you know, my time at Rose-Hulman was always limited. Sarah and I knew that match day would come and we would inevitably be told where we were going to live, not by our hearts, but by a computer system.
 

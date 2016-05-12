@@ -2,8 +2,8 @@
 id: 269
 title: Most Important Aspect of Social Marketing
 date: 2010-08-27T10:27:48+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=269
 permalink: /social-media/most-important-aspect-of-social-marketing/
 seo_follow:
@@ -26,7 +26,7 @@ categories:
 tags:
   - Social Media
 format: aside
-comments: true
+
 ---
 **What&#8217;s so important about Social Media?**
 

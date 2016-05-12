@@ -2,9 +2,10 @@
 id: 9995
 title: Freestyle Technique
 date: 2011-01-10T09:10:30+00:00
-author: Greg McMullen
+header:
+  teaser: swim-teaser.jpg
 excerpt: Swimming the front crawl (commonly referred to as Freestyle) is not as hard as it may look. Check out some tips from me here!
-layout: post
+
 guid: http://gregoryamcmullen.com/?p=9995
 permalink: /coaching/freestyle-technique/
 dsq_thread_id:
@@ -12,7 +13,7 @@ dsq_thread_id:
 shorturls:
   - 'a:3:{s:9:"permalink";s:56:"http://gregoryamcmullen.com/coaching/freestyle-technique";s:7:"tinyurl";s:26:"http://tinyurl.com/3lm2thr";s:4:"isgd";s:19:"http://is.gd/kp2Msn";}'
 tweetbackscheck:
-  - 
+  -
 twittercomments:
   - 'a:0:{}'
 tweetcount:
@@ -25,7 +26,7 @@ tags:
   - excercise
   - swimming
   - swimming mistakes
-comments: true
+
 ---
 Proper stroke technique is obtained by utilizing a strong underwater catch, pull-through, recovery and a strong flutter-style kick.
 
@@ -61,7 +62,7 @@ Breathing in freestyle is not nearly as difficult as some people may think. The 
   * Turn your head to the left and right as needed to breath; Making sure one eye is still under the water and positioning your mouth as needed to get a breath
   * Still on the wall; Take a stroke while turning your head to breath
   * Use a kick board with the same technique above with strokes
-  * Put it all together 
+  * Put it all together
       * One thing I like to tell my swimmers is to use your shoulders to &#8220;push&#8221; your chin back in line through the stoke. This will help improve your breath timing.
 
 ## Drills

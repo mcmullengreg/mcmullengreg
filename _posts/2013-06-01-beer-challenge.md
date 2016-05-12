@@ -2,8 +2,8 @@
 id: 11233
 title: 'Beer &#8220;Challenge&#8221;'
 date: 2013-06-01T19:49:57+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=11233
 permalink: /personal/beer-challenge/
 categories:
@@ -12,7 +12,7 @@ tags:
   - Beer
   - brews
   - challenge
-comments: true
+
 ---
 Earlier this week, I visited a wonderful little market here in Terre Haute. It&#8217;s name? Baesler&#8217;s Market.
 

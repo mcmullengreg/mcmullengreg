@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Greg McMullen
 categories:
   - code
 comments: true
@@ -38,7 +36,7 @@ After a bit longer, I realized the apostrophe in `that's` looked right, but I ch
 
 **Hallelujah, it's fixed**
 
-![Facebook Share Screenshot Dialog]({{ "/img/posts/2016-04-01-open-graph.png" | prepend: site.url }} "Screenshot of share dialog")
+![Facebook Share Screenshot Dialog]({{ "/images/posts/2016-04-01-open-graph.png" | prepend: site.url }} "Screenshot of share dialog")
 
 ### TL;DR
 

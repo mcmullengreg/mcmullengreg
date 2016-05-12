@@ -2,9 +2,10 @@
 id: 10045
 title: Breaststroke Technique
 date: 2011-01-28T08:30:37+00:00
-author: Greg McMullen
+header:
+  teaser: swim-teaser.jpg
 excerpt: This post is designed to get you familiar with the idea of swimming proper breastroke technique. Because of the timing involved in this stroke please contact me if you have any questions and also remember that YouTube can be a great resource too.
-layout: post
+
 guid: http://gregoryamcmullen.com/?p=10045
 permalink: /coaching/breastroke-technique/
 dsq_thread_id:
@@ -12,7 +13,7 @@ dsq_thread_id:
 shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://gregoryamcmullen.com/coaching/breastroke-technique";s:7:"tinyurl";s:26:"http://tinyurl.com/4x3dmfx";s:4:"isgd";s:19:"http://is.gd/2WUv0B";}'
 tweetbackscheck:
-  - 
+  -
 twittercomments:
   - 'a:0:{}'
 tweetcount:
@@ -27,7 +28,7 @@ tags:
   - Coaching
   - swimming
   - swimming mistakes
-comments: true
+
 ---
 Breaststroke is a very strange stroke to swim due to the nature of the timing between the kick and pull and the performing the kick itself. Hopefully after reading this you will have a better sense of when kicks and pulls should start but you will also be able to take some drills out of this post.
 

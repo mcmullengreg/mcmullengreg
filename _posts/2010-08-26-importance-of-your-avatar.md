@@ -2,8 +2,8 @@
 id: 263
 title: Importance of your Avatar
 date: 2010-08-26T10:48:12+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=263
 permalink: /personal/importance-of-your-avatar/
 seo_follow:
@@ -26,7 +26,7 @@ tags:
   - choosing your avatar
   - personal marketing
   - Social Media
-comments: true
+
 ---
 I&#8217;m sure that you&#8217;ve heard the old phrase &#8220;Don&#8217;t Judge a book by it&#8217;s cover&#8221; but is that really how we operate? I know that I am guilty of judging someone based on their looks.
 

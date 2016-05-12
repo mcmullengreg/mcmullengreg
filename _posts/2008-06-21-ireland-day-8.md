@@ -2,8 +2,8 @@
 id: 11198
 title: 'Ireland &#8211; Day 8'
 date: 2008-06-21T09:08:00+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/uncategorized/ireland-day-8
 permalink: /life/ireland-day-8/
 blogger_blog:
@@ -14,7 +14,7 @@ categories:
   - Life
   - Personal
 format: aside
-comments: true
+
 ---
 Today I am in County Cork, Cork City to be exact.
 

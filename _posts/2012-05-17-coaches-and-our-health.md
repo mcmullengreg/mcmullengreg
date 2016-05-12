@@ -2,26 +2,18 @@
 id: 11025
 title: Coaches and Our Health
 date: 2012-05-17T22:22:27+00:00
-author: Greg McMullen
-layout: post
-guid: http://gregoryamcmullen.com/?p=11025
+header:
+  teaser: swim-teaser.jpg
+
 permalink: /coaching/coaches-and-our-health/
-geo_public:
-  - 1
-geo_longitude:
-  - -86.220552
-geo_latitude:
-  - 39.832227
-tmac_last_id:
-  - 322482952569253890
+
 categories:
   - Coaching
 tags:
   - Coaching
   - health
   - swimming
-format: aside
-comments: true
+
 ---
 The other day, I finally decided to weigh myself. I weighed in at 194.4lbs. New goal, weigh in the 180&#8217;s before August 11.
 

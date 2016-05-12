@@ -2,8 +2,8 @@
 id: 10630
 title: Law of the Lid
 date: 2011-08-29T12:57:27+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10630
 permalink: /coaching/law-of-the-lid/
 dsq_thread_id:
@@ -22,7 +22,7 @@ tags:
   - inner circle
   - leadership
   - personal development
-comments: true
+
 ---
 Recently I was given a copy of _[The 21 Irrefutable Laws of Leadership](http://www.amazon.com/21-Irrefutable-Laws-Leadership-Follow/dp/0785274316)_ and decided that I will partake in applying these laws to my life online.
 

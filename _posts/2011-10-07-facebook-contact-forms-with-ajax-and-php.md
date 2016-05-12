@@ -2,25 +2,20 @@
 id: 10766
 title: Facebook Contact Forms with AJAX and PHP
 date: 2011-10-07T14:02:33+00:00
-author: Greg McMullen
-layout: post
-guid: http://gregoryamcmullen.com/?p=10766
+
 permalink: /coding/facebook-contact-forms-with-ajax-and-php/
-tmac_last_id:
-  - 322482954490241024
-dsq_thread_id:
-  - 553817155
+
 categories:
   - Coding
 tags:
   - ajax
   - coding
-  - contnact form on facebook
+  - contact form on facebook
   - facebook
   - javascript
   - php
   - Putting forms on facebook
-comments: true
+
 ---
 While working today, I was having an issue finding information on how to add a lead capture form on our Facebook Page. Luckily I stumbled across this amazing post! [Submitting a Contact Form via AJAX From Your Facebook Page](http://illuminatikarate.com/blog/submitting-a-contact-form-via-ajax-from-your-facebook-page/)
 
@@ -33,13 +28,13 @@ Both of these pieces of code should be placed on your Static HTML Page/Tab
 ### The Form
 
 {% highlight html %}
-	<form action="http://YOURWEBSITE.com/form_submit.php" method="post">
-     <p><label for="name">Name:</label></p>
-     <p><input id="name" name="name" placeholder="Name" /></p>
-     <p><label for="email">Email:</label></p>
-     <p><input id="email" placeholder="email" name="email" />
-     <button type="submit">Submit</button>
-     <p id="ajaxMessage"></p>
+<form action="http://YOURWEBSITE.com/form_submit.php" method="post">
+    <p><label for="name">Name:</label></p>
+    <p><input id="name" name="name" placeholder="Name" /></p>
+    <p><label for="email">Email:</label></p>
+    <p><input id="email" placeholder="email" name="email" />
+    <button type="submit">Submit</button>
+    <p id="ajaxMessage"></p>
 </form>
 {% endhighlight %}
 
@@ -48,7 +43,7 @@ Both of these pieces of code should be placed on your Static HTML Page/Tab
 function submitAjaxForm() {  
     // declare a new FBJS AJAX object  
     var ajax = new Ajax();  
-    ajax.responseType = Ajax.FBML; 
+    ajax.responseType = Ajax.FBML;
     // define a callback to handle the response from the server  
     ajax.ondone = function(data)  {  
           document.getElementById('ajaxMessage').setInnerFBML(data);  
@@ -56,11 +51,11 @@ function submitAjaxForm() {
     // let the user know we're sending the data
     document.getElementById('ajaxMessage').setInnerXHTML('Submitting your information, please wait...');  
     // collect field values  
-    var queryParams = { 
-          'name' : document.getElementById('name').getValue(), 
-          'email' : document.getElementById('email').getValue() 
-    }; 
-    ajax.post('http://mywebsite.com/form_submit.php', queryParams);  return false; 
+    var queryParams = {
+          'name' : document.getElementById('name').getValue(),
+          'email' : document.getElementById('email').getValue()
+    };
+    ajax.post('http://mywebsite.com/form_submit.php', queryParams);  return false;
 }
 {% endhighlight %}
 
@@ -73,7 +68,7 @@ I don&#8217;t know any other scripting languages at the moment and don&#8217;t h
 {% highlight php%}
 <?php
 // Set Default Timezone to Indianapolis for Submission Date/Time
- date_default_timezone_set('America/Indianapolis'); 
+ date_default_timezone_set('America/Indianapolis');
 // Get User Content from the Form
  $name = stripslashes($_POST['name']);
  $email = stripslashes($_POST['email']);
@@ -81,7 +76,7 @@ I don&#8217;t know any other scripting languages at the moment and don&#8217;t h
  $address = stripslashes($_POST['address']);
  $products = stripslashes($_POST['product']);
 // Set Date for when Submission was Sent
- $date = date('F d, Y @ h:i a', time()); 
+ $date = date('F d, Y @ h:i a', time());
 
 // Email headers and subject information
  $headers = 'MIME-Version: 1.0' . "rn";
@@ -89,7 +84,7 @@ I don&#8217;t know any other scripting languages at the moment and don&#8217;t h
  $headers .= 'From: ' . $name . ''; //Who's it from? The person that filled out the form!
  $subject = 'YOUR EMAIL SUBJECT';
  $recipient = 'You@YourDomain.com';
- 
+
  $msg = "<strong>Submission Info:</strong>" .
  . "<strong>Submitted: </strong>" . $date . "
  . "<strong>Name: </strong>" . $name . "
@@ -97,15 +92,15 @@ I don&#8217;t know any other scripting languages at the moment and don&#8217;t h
  . "<strong>Email: </strong>" . $email . "
  . "<strong>Address: </strong>" . $address . "
  . "<strong>Product: </strong>" . $products ."
- . "<strong>How they Found Us: </strong>Facebook"; 
- //Mail $msg to the recipient on the form 
- if (mail($recipient, $subject, $msg, $headers)) { 
- //Output a confirmation that the email has been sent echo 
- "<strong>" . $name . " Your Entry has been submitted. </strong>"; 
- } else 
- //Error Message if problems arise { 
- echo "Message failed to send."; 
- } 
+ . "<strong>How they Found Us: </strong>Facebook";
+ //Mail $msg to the recipient on the form
+ if (mail($recipient, $subject, $msg, $headers)) {
+ //Output a confirmation that the email has been sent echo
+ "<strong>" . $name . " Your Entry has been submitted. </strong>";
+ } else
+ //Error Message if problems arise {
+ echo "Message failed to send.";
+ }
 ?>
 {% endhighlight %}
 

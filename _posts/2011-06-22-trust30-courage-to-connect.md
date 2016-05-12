@@ -2,8 +2,8 @@
 id: 10512
 title: 'trust30: Courage to Connect'
 date: 2011-06-22T13:04:45+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10512
 permalink: /trust30/trust30-courage-to-connect/
 dsq_thread_id:
@@ -26,7 +26,7 @@ tags:
   - Greg McMullen
   - swimming coaching
   - Trust30
-comments: true
+
 ---
 > Men imagine that they communicate their virtue or vice only by overt actions, and do not see that virtue or vice emit a breath every moment. &#8211; Ralph Waldo Emerson
 

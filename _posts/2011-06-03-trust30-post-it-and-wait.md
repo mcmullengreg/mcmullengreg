@@ -2,8 +2,8 @@
 id: 10365
 title: '#trust30: Post-It and Wait'
 date: 2011-06-03T11:22:13+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10365
 permalink: /trust30/trust30-post-it-and-wait/
 dsq_thread_id:
@@ -20,7 +20,7 @@ tmac_last_id:
   - 322482967530328064
 categories:
   - Trust30
-comments: true
+
 ---
 > That which each can do best, none but his Maker can teach him. Where is the master who could have taught Shakespeare? Where is the master who could have instructed Franklin, or Washington, or Bacon, or Newton? . . . Shakespeare will never be made by the study of Shakespeare. Do that which is assigned you, and you cannot hope too much or dare too much. – Ralph Waldo Emerson
 

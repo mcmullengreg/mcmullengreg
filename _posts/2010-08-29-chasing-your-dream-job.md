@@ -2,8 +2,8 @@
 id: 10091
 title: Chasing Your Dream Job
 date: 2010-08-29T23:38:31+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/blog/?p=1
 permalink: /life/chasing-your-dream-job/
 seo_follow:
@@ -27,7 +27,7 @@ tags:
   - chasing your dreams
   - dream job
   - jobs
-comments: true
+
 ---
 This weekend I decided to head down to visit my girlfriend, who is attending IU Medical School, and while we know that living an hour apart is going to be tough we never realized how hard it was until today around 2:00.
 

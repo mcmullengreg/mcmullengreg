@@ -1,24 +1,14 @@
 ---
 id: 10258
 title: 'Prejudice is Alive and Well in 2011 &#8211; Unfortunately'
-date: 2011-05-25T11:33:37+00:00
-author: Greg McMullen
+
 excerpt: "I was enjoying a pleasant experience at a suburban men's clothing store the other day. My sales person, John was enthusiastically taking my money and I was excited about the clothing he had up-sold me. I only went in for a shirt…the alterations on my new sport coat and 2 pair of slacks would be ready in 2 days."
-layout: post
-guid: http://gregoryamcmullen.com/?p=10258
+
 permalink: /life/prejudice-is-alive-and-well-in-2011-unfortunately/
+
 dsq_thread_id:
   - 313526137
-shorturls:
-  - 'a:3:{s:9:"permalink";s:86:"http://gregoryamcmullen.com/personal/prejudice-is-alive-and-well-in-2011-unfortunately";s:7:"tinyurl";s:26:"http://tinyurl.com/3vkb9kr";s:4:"isgd";s:19:"http://is.gd/mtk41j";}'
-tweetbackscheck:
-  - 
-twittercomments:
-  - 'a:0:{}'
-tweetcount:
-  - 0
-tmac_last_id:
-  - 322482969849757697
+
 categories:
   - Guest post
   - Life
@@ -27,7 +17,9 @@ tags:
   - controversial
   - controversy
   - prejudice
-comments: true
+
+author_profile: false
+
 ---
 
 I was enjoying a pleasant experience at a suburban men&#8217;s clothing store the other day. My sales person, John was enthusiastically taking my money and I was excited about the clothing he had up-sold me. I only went in for a shirt…the alterations on my new sport coat and 2 pair of slacks would be ready in 2 days.
@@ -45,9 +37,3 @@ If you Google &#8220;Hate Groups,&#8221; there are over 900 hate groups listed. 
 When I was 13-years old, my parents owned and operated a neighborhood convenience store. A small cafeteria was attached to the store. Mom ran the cafeteria and dad ran the store.
 
 The cafeteria did a lively lunch business supported by a few local businesses. One warm summer day, a local power company service crew stopped to eat. One member of the service crew was an African American (back then, he was black). Several regulars from a local gravel operation began heckling the man, &#8220;You know where the colored section is? It&#8217;s out in your damn truck you \___!” The heckling became worse. My dad took off his white store apron, handed it to me, and asked me to run the register. He was going to lunch. My dad went through the line, got a tray of food and sat down with the African American man. It was a lesson. The cafeteria closed a short time later. It had been black- balled. Over the years, my dad taught me we all have prejudices, but must understand they are wrong and work to change them. Teach your children.
-
-**Here are several tolerance teaching organizations including:**
-  
-Anti-Racist Parent, Teaching Tolerance, Character Education, and the Civil Rights Project. (The link below no longer works)
-  
-[http://greatergood.berkeley.edu/greatergood/2008summer/PrejudiceResources.pdf](http://greatergood.berkeley.edu/greatergood/2008summer/PrejudiceResources.pdf)

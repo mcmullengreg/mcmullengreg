@@ -2,12 +2,12 @@
 id: 11142
 title: Reaffirming a Coaching Career Choice
 date: 2013-01-29T09:35:16+00:00
-author: Greg McMullen
-layout: post
-guid: http://gregoryamcmullen.com/?p=11142
+
+header:
+  teaser: swim-teaser.jpg
+
 permalink: /coaching/reaffirming-a-coaching-career-choice/
-tmac_last_id:
-  - 322482946059694081
+
 categories:
   - Coaching
   - Life
@@ -15,7 +15,7 @@ categories:
 tags:
   - featured
 format: quote
-comments: true
+
 ---
 Recently, I received a series of text messages from a former swimmer. I only coached this athlete for two high school seasons and not only did he have an impact on my life, but these messages clearly showed that I had an impact on his as well.
 

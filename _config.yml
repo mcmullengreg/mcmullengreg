@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Greg McMullen"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Greg McMullen"
+description              : "Greg McMullen is a husband, father and web developer living in Greater Cincinnati."
+url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+gh_repo                  : mcmullengreg.github.io
+teaser                   : "code.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs            	 : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "mcmullen_greg"
 facebook:
   username               :
   app_id                 :
@@ -47,12 +47,15 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/mcmullen_greg"
+    - "https://instagram.com/mcmullengreg"
+    - "https://www.linkedin.com/in/gregmcmullen"
+    - "https://plus.google.com/+GregMcMullenCoach/"
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "GTM-PP3GKW"
 
 # Google AdSense
 google_ad_client         :
@@ -61,30 +64,30 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  bitbucket        :
+  name             : "Greg McMullen"
+  avatar           : "gm-photo.jpg"
+  bio              : "Husband. Dad. Web Developer."
+  location         : "Greater Cincinnati"
+  email            : "mcmullen.greg@gmail.com"
+  uri              : "http://gregoryamcmullen.com"
+  bitbucket        : "mcmullengreg"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "mcmullengreg"
+  google_plus      : "+GregMcMullenCoach"
   keybase          :
-  instagram        :
+  instagram        : "mcmullen_greg"
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "2370075/greg-mcmullen"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "mcmullen_greg"
   vine             :
   weibo            :
   xing             :
@@ -144,13 +147,44 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path
+
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate: 10 # amount of posts to show
+paginate_path: /blog/page/:num/
+timezone: America/New_York
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      related: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  -
+    scope:
+      path: "code"
+      type: "posts"
+    values:
+      teaser: "code.jpg"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single" # overrides previous default layout
 
 # Plugins
 gems:
@@ -159,6 +193,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -167,7 +202,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-redirect-from
 
 # Archives
 #  Type
@@ -185,18 +220,6 @@ categories:
 tags:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/

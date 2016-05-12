@@ -2,8 +2,8 @@
 id: 10581
 title: Tweets for Scholarships
 date: 2011-07-12T13:56:38+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10581
 permalink: /life/tweets-for-scholarships/
 shorturls:
@@ -29,7 +29,7 @@ tags:
   - tweets
   - twitter
 format: link
-comments: true
+
 ---
 I think it&#8217;s quite awesome that Social Media is involved? But are people taking it too far?
 

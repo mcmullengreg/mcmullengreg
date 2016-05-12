@@ -2,8 +2,8 @@
 id: 10432
 title: '#trust30: How Bold Will You Be?'
 date: 2011-06-06T08:13:34+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/uncategorized/trust30-how-bold-will-you-be
 permalink: /trust30/trust30-how-bold-will-you-be/
 dsq_thread_id:
@@ -28,7 +28,7 @@ tags:
   - personal life
   - rational thought
   - Trust30
-comments: true
+
 ---
 
 > Our arts, our occupations, our marriages, our religion, we have not chosen, but society has chosen for us. We are parlour soldiers. We shun the rugged battle of fate, where strength is born. – Ralph Waldo Emerson

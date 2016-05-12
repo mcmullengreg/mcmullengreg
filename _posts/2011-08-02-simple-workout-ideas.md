@@ -2,14 +2,10 @@
 id: 10627
 title: Simple Workout Ideas
 date: 2011-08-02T08:00:32+00:00
-author: Greg McMullen
-layout: post
-guid: http://gregoryamcmullen.com/?p=10627
+header:
+  teaser: swim-teaser.jpg
 permalink: /coaching/simple-workout-ideas/
-dsq_thread_id:
-  - 375062399
-tmac_last_id:
-  - 322482958915223553
+
 categories:
   - Coaching
   - Life
@@ -22,7 +18,7 @@ tags:
   - stretch cords
   - working out
   - workout
-comments: true
+
 ---
 Everyone&#8217;s busy. How do you manage to get a workout in? Do you have an expensive gym membership? Do you just walk or run around your neighborhood? Or do you have trouble finding the motivation to do a workout?
 

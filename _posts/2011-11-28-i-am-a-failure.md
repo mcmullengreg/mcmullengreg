@@ -2,8 +2,8 @@
 id: 10775
 title: 'I am a failure&#8230;'
 date: 2011-11-28T12:13:41+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10775
 permalink: /life/i-am-a-failure/
 tmac_last_id:
@@ -15,7 +15,7 @@ categories:
   - Personal
 tags:
   - Failure
-comments: true
+
 ---
 There are two Michael Jordan quotes that truly are amazing. Actually, he has quite a few quotes on this topic; the two I am going to focus on are some of my favorites.
 

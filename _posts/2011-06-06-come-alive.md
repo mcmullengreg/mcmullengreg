@@ -2,8 +2,8 @@
 id: 10411
 title: '#trust30: Come Alive!'
 date: 2011-06-06T00:07:20+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10411
 permalink: /trust30/come-alive/
 dsq_thread_id:
@@ -27,7 +27,7 @@ tags:
   - Greg McMullen
   - personal life
   - work and personal life
-comments: true
+
 ---
 > Life wastes itself while we are preparing to live. – Ralph Waldo Emerson
 

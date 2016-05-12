@@ -2,9 +2,9 @@
 id: 6010
 title: Some Fall Landscapes
 date: 2010-10-20T19:32:26+00:00
-author: Greg McMullen
+
 excerpt: While walking a trail in Greenwood, IN I decided to stop and get a picture of the leaves that had fallen.
-layout: post
+
 guid: http://gregoryamcmullen.com/?p=6010
 permalink: /life/some-fall-landscapes/
 seo_follow:
@@ -32,7 +32,7 @@ tags:
   - photo
   - Photography
 format: image
-comments: true
+
 ---
 Decided to go to the Northwest Park Annex and take some pictures. Let me know what you think!
 

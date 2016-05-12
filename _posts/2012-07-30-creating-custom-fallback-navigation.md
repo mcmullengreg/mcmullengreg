@@ -2,26 +2,8 @@
 id: 11078
 title: Creating Custom Fallback Navigation
 date: 2012-07-30T11:29:51+00:00
-author: Greg McMullen
-layout: post
-guid: http://gregoryamcmullen.com/?p=11078
+
 permalink: /coding/creating-custom-fallback-navigation/
-fb_mentioned_pages:
-  - 'a:0:{}'
-fb_mentioned_pages_message:
-  - 
-fb_mentioned_friends:
-  - 'a:0:{}'
-fb_mentioned_friends_message:
-  - 
-fb_author_message:
-  - 
-fb_author_post_id:
-  - 703308088078
-fb_status_messages:
-  - 'a:1:{i:0;a:2:{s:7:"message";s:99:"Posted to [your Facebook Timeline](http://www.facebook.com/703308088078)";s:5:"error";s:0:"";}}'
-tmac_last_id:
-  - 322482947846443009
 categories:
   - Coding
 tags:
@@ -31,7 +13,7 @@ tags:
   - php
   - wordpress
   - wordpress menus
-comments: true
+
 ---
 When creating WordPress themes, sometimes it&#8217;s necessary to create your own menus. With 3.0+ you are able to create menus as well as a fallback menu.
 

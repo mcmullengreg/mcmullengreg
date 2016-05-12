@@ -2,8 +2,9 @@
 id: 8139
 title: Improving Your Team Through Cuts
 date: 2010-11-19T12:27:48+00:00
-author: Greg McMullen
-layout: post
+header:
+  teaser: swim-teaser.jpg
+
 guid: http://gregoryamcmullen.com/?p=8139
 permalink: /life/improving-your-team-through-cuts/
 seo_follow:
@@ -13,7 +14,7 @@ dsq_thread_id:
 shorturls:
   - 'a:3:{s:9:"permalink";s:70:"http://gregoryamcmullen.com/marketing/improving-your-team-through-cuts";s:7:"tinyurl";s:26:"http://tinyurl.com/3kbp5eb";s:4:"isgd";s:19:"http://is.gd/OF6u4W";}'
 tweetbackscheck:
-  - 
+  -
 twittercomments:
   - 'a:0:{}'
 tweetcount:
@@ -24,7 +25,7 @@ categories:
   - Life
   - Marketing
   - Personal
-comments: true
+
 ---
 
 I&#8217;m starting to find myself in some tough spots. Last week we had a few guys that were having a rough time even making it through pushing off of a wall without stopping immediately. This combined with the fact that we have a 6-lane pool with over 30 swimmers meant that we unfortunately had to make some cuts.

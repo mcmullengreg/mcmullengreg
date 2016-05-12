@@ -2,8 +2,8 @@
 id: 4137
 title: Preparing for Work Life
 date: 2010-09-23T09:30:22+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=4137
 permalink: /life/preparing-for-work-life/
 seo_follow:
@@ -24,7 +24,7 @@ categories:
 tags:
   - business life
   - personal life
-comments: true
+
 ---
 
 While you are in school, no one really tells you how to prepare for work life. Honestly, I wasn&#8217;t sure I could make it in the real world. However, I&#8217;m currently working a full time job, paid off 2 student loans (2 to go), picked up my cell phone bill and bought a car! The best part is that I&#8217;m only 23 years old.

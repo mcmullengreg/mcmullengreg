@@ -1,9 +1,9 @@
 ---
-layout: post
+
 title:  "Working with Bower"
-author: Greg McMullen
+
 categories: code
-comments: true
+
 ---
 
 While working on the redevelopment for the [Xavier University V4 project]({{ "/projects" | prepend: site.url }}). I've determined that I needed to get a better understanding of 

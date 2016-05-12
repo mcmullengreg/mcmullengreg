@@ -2,8 +2,8 @@
 id: 10459
 title: '#trust30: Top 10 Fears'
 date: 2011-06-08T22:11:35+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=10459
 permalink: /trust30/trust30-top-6-fears/
 dsq_thread_id:
@@ -28,7 +28,7 @@ tags:
   - indianapolis
   - personal life
   - Trust30
-comments: true
+
 ---
 The other terror that scares us from self-trust is our consistency; a reverence for our past act or word, because the eyes of others have no other data for computing our orbit than our past acts, and we are loath to disappoint them. &#8211; Ralph Waldo Emerson
 

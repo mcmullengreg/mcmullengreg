@@ -2,8 +2,8 @@
 id: 5806
 title: 'Understanding &#8220;Social Media&#8221;'
 date: 2010-10-18T11:35:46+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/uncategorized/understanding-social-media
 permalink: /social-media/understanding-social-media/
 geo_address:
@@ -33,7 +33,7 @@ tags:
   - Marketing
   - Social Media
 format: aside
-comments: true
+
 ---
 This morning I decided to utilize some tools to figure out how I was doing from a Social Media perspective only to realize that I had (seemingly) lost 96 followers. Now I know that people on social media want to &#8220;read good stuff&#8221;, which is why I was trying to &#8220;share good stuff.&#8221; However, today just proved that I was failing at a few different aspects of what social media is. 
 

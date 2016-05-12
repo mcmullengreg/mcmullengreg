@@ -2,8 +2,10 @@
 id: 11162
 title: Reaching Your Full Potential
 date: 2013-08-20T09:15:43+00:00
-author: Greg McMullen
-layout: post
+
+header:
+  teaser: swim-teaser.jpg
+  
 guid: http://gregoryamcmullen.com/?p=11162
 permalink: /coaching/reaching-your-full-potential/
 categories:
@@ -13,7 +15,7 @@ tags:
   - full potential
   - Reaching Your Full Potential
   - success driven potential
-comments: true
+
 ---
 People look towards family and close friends for support. How often do these requests get laughed at? Ignored? Supported? Or encouraged? No matter the outcome, these situations strengthen connections and can often help when reaching your full potential.
 

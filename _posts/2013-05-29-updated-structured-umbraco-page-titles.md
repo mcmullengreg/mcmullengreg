@@ -2,8 +2,8 @@
 id: 11220
 title: 'Updated: Umbraco Page Titles'
 date: 2013-05-29T10:02:14+00:00
-author: Greg McMullen
-layout: post
+
+
 guid: http://gregoryamcmullen.com/?p=11220
 permalink: /coding/updated-structured-umbraco-page-titles/
 categories:
@@ -17,9 +17,10 @@ tags:
   - seo
   - Umbraco
   - umbraco page titles
-comments: true
+
 ---
-Since creating the first rendition of the [Structured Page Titles for Umbraco](http://code.gregoryamcmullen.com/2013/01/22/structured-umbraco-page-titles/ "Structured Umbraco Page Titles"), I decided it would be worthwhile to revisit and clean up the size of the file and make it much more readable. Umbraco makes it easy to define page titles, but this script helps reduce the repetitive nature of titles in larger sites.
+
+Since creating the first rendition of the [Structured Page Titles for Umbraco]({% post_url 2013-01-22-structured-umbraco-page-titles %}), I decided it would be worthwhile to revisit and clean up the size of the file and make it much more readable. Umbraco makes it easy to define page titles, but this script helps reduce the repetitive nature of titles in larger sites.
 
 To use this code you will need to create a shortPageTitle and pageTitle in your document type(s). Skip this step or change&nbsp;the script to work in your install.
 
