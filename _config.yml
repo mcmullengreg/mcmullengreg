@@ -11,7 +11,7 @@ title                    : "Greg McMullen"
 title_separator          : "-"
 name                     : "Greg McMullen"
 description              : "Greg McMullen is a husband, father and web developer living in Greater Cincinnati."
-url                      :
+url                      : "http://gregoryamcmullen.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  : mcmullengreg.github.io
 teaser                   : "code.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
