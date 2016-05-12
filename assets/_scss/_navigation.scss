@@ -42,6 +42,11 @@
 
   li {
     display: inline;
+    margin:0 5px;
+
+    &:first-child{
+        margin-left:0;
+    }
   }
 
   .current {
