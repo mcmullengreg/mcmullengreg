@@ -1,5 +1,5 @@
 ---
-title: "Form Manager"
+title: "Form Wrangler"
 excerpt: "Umbraco component for listing documents within the media library."
 
 header:

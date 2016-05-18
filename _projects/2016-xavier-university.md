@@ -1,6 +1,7 @@
 ---
 title: "Xavier University"
 
+excerpt: Selection of projects from working at Xavier University
 header:
   overlay_image: projects/xu-proj-header.jpg
   teaser: projects/xu-proj-teaser.jpg
