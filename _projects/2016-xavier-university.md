@@ -1,6 +1,5 @@
 ---
 title: "Xavier University"
-excerpt: "Recipe management for the McMullen household"
 
 header:
   overlay_image: projects/xu-proj-header.jpg
