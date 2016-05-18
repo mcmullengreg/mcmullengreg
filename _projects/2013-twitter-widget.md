@@ -8,6 +8,8 @@ header:
 layout: single
 author_profile: true
 
+permalink: projects/twitter-widget
+
 ---
 
 Basic embedded timeline macro for usage on your site. There is an MVC (tested in 7.0) and a Razor (tested in 4.11.8) version of the macro.

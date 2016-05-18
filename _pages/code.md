@@ -3,6 +3,8 @@
 title: Projects
 permalink: /projects/
 
+layout: archive
+
 excerpt: Greg McMullen's past, present and public projects.
 author_profile: true
 
@@ -16,7 +18,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 {% include base_path %}
 
 <div class="grid__wrapper">
-  {% for post in site.projects %}
+  {% for post in site.projects reversed %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

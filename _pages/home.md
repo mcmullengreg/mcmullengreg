@@ -5,16 +5,16 @@ permalink: /
 
 excerpt: Husband. Dad. Dog owner. Web developer.
 
-author_profile: false 
+author_profile: true
 
-layout: splash
+layout: archive
 
 header:
   overlay_image: about-bg.jpg
   overlay_filter: rgba(0,0,0,0.5)
   cta_label: Learn more &raquo;
   cta_url: /about
-  
+
 ---
 
 <h3 class="archive__subtitle">Recent Posts</h3>

@@ -10,6 +10,8 @@ header:
 layout: single
 author_profile: true
 
+permalink: projects/menu-maker
+
 ---
 
 Designed as a replacement for paper recipes OurMenuMaker.com has provided the McMullen household with 

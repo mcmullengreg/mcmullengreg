@@ -8,6 +8,8 @@ header:
 layout: single
 author_profile: true
 
+permalink: projects/form-wrangler
+
 ---
 
 Initially built for handling PDF Documents within the media library, this tool can help display documents onto your website in a snap.
