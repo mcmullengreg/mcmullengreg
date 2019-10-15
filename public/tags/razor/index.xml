@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>razor on Greg McMullen</title>
-    <link>http://gregoryamcmullen.com/tags/razor/</link>
+    <link>http://www.gregoryamcmullen.com/tags/razor/</link>
     <description>Recent content in razor on Greg McMullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 06 May 2014 16:09:07 +0000</lastBuildDate>
     
-	<atom:link href="http://gregoryamcmullen.com/tags/razor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gregoryamcmullen.com/tags/razor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Umbraco Package: Form Wrangler</title>
-      <link>http://gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</link>
       <pubDate>Tue, 06 May 2014 16:09:07 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</guid>
       <description>Form Wrangler is a package for Umbraco that assembles a list of files, with links, from a selected media library folder ID. This package was initially designed for the Rose-Hulman Institute of Technology Website and released to the Our Umbraco community on 22 November 2013.
 Form Wrangler Parameters:  Name: Media Folder Alias: mediaFolder Type: mediaCurrent  Form Wrangler CSHTML  Disclaimer: Form Wrangler was designed &amp;#8220;as-is&amp;#8221;. Greg McMullen does not provide any warranty of the item whatsoever, whether express, implied or statutory, including, but not limited to, any warranty of merchantability or fitness for a particular purpose or any warranty that the contents of the item will be error-free.</description>
     </item>
     
     <item>
       <title>Structured Umbraco Page Titles</title>
-      <link>http://gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</link>
       <pubDate>Tue, 22 Jan 2013 09:53:18 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</guid>
       <description>If you are looking for some code to generate tiered page titles within Umbraco here is an example that worked for our site. This code assumes you are using pageTitle as a DocType element.
  </description>
     </item>

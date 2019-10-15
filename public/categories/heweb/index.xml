@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>heweb on Greg McMullen</title>
-    <link>http://gregoryamcmullen.com/categories/heweb/</link>
+    <link>http://www.gregoryamcmullen.com/categories/heweb/</link>
     <description>Recent content in heweb on Greg McMullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://gregoryamcmullen.com/categories/heweb/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gregoryamcmullen.com/categories/heweb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>heweb15 Notes</title>
-      <link>http://gregoryamcmullen.com/posts/2015/10/heweb15-notes/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2015/10/heweb15-notes/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2015/10/heweb15-notes/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2015/10/heweb15-notes/</guid>
       <description>AIM2 - Open Source Accessibility tools.  Presentation URL: http://presentations.cita.illinois.edu/2015-10-highedweb-tools/slide1.html Accessibility Tool: http://fae20.cita.illinois.edu  Sections are already &amp;ldquo;landmarks&amp;rdquo;
 All content must be contained in a landmark
 add :focus on elements
@@ -26,10 +26,10 @@ AIM5 - Slacking off at Work  Team of 2 grew to 12 Great form of collaboration Vo
     
     <item>
       <title>HEWEB13 Notes</title>
-      <link>http://gregoryamcmullen.com/posts/2014/10/heweb13-notes/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2014/10/heweb13-notes/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2014/10/heweb13-notes/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2014/10/heweb13-notes/</guid>
       <description>Web Content Migration - Regis University  5-7 year old site - 2 years to plan; 10 weeks to build Nav = confusing 7,000+ pages (duplicated and outdated) 1,000 Undergrad - 150+ editors - operating under silo (just like us) No goals or strategy No the &amp;ldquo;Regis&amp;rdquo; Story ITS Owned; kept it functioning New Architecture/Focus New CMS Platform (error prone proprietary) - SiteCore New Design and marketing/content strategies Hired CMO after web project was started Accountability (university asset; marketing ownership) New governance Project Teams  3 Admissions Deans, CIO, communications director Wrote request for proposal, chose vendor Chose and purchased CMS Guided discovery, strategy and creative processes Approved new architecture and design  Web Advisory Committee (did not serve much; obligation to include)  40-50 mid-level managers, faculty and student Presentation and Q&amp;amp;A  Web Marketing Team  Accountable for build, strategy and branding Built site in CMS and migrated content Evolve content, design, strategy and function Partner with ITS Web analytics Governance Editor training Assist with faculty/staff/student pages  Content Owner Meetings  Need content updated?</description>
     </item>
     

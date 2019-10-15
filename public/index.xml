@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Greg McMullen</title>
-    <link>http://gregoryamcmullen.com/</link>
+    <link>http://www.gregoryamcmullen.com/</link>
     <description>Recent content on Greg McMullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://gregoryamcmullen.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gregoryamcmullen.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Xavier University</title>
-      <link>http://gregoryamcmullen.com/projects/xavier-university/</link>
+      <link>http://www.gregoryamcmullen.com/projects/xavier-university/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/projects/xavier-university/</guid>
+      <guid>http://www.gregoryamcmullen.com/projects/xavier-university/</guid>
       <description>2019  Lead Developer for V5 project  2018  Provided training, documentation and development for new CMS environment  2017  Selection of CMS, V4 conversion to accommodate the new CMS  2016  Lead Developer for Content Delivery System  Modified CMS blog component Integrated unique tracking system for article views and impressions  V4 template redevelopment (on hold)  Working to clean up base code for accessibility and performance</description>
     </item>
     
     <item>
       <title>Menu Maker (defunct)</title>
-      <link>http://gregoryamcmullen.com/projects/menu-maker/</link>
+      <link>http://www.gregoryamcmullen.com/projects/menu-maker/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/projects/menu-maker/</guid>
+      <guid>http://www.gregoryamcmullen.com/projects/menu-maker/</guid>
       <description>Designed as a replacement for paper recipes OurMenuMaker.com has provided the McMullen household with more than just recipe management.
 While site development has been put on hold, the project will be resumed shortly with a completely new interface.</description>
     </item>
     
     <item>
       <title>HEWEB16: Day 2</title>
-      <link>http://gregoryamcmullen.com/posts/2016/10/heweb16-day-2/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2016/10/heweb16-day-2/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2016/10/heweb16-day-2/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2016/10/heweb16-day-2/</guid>
       <description>Give it a ReST What is ReST
  REpresentational State Transfer Uniform interface Stateless Cacheable Client-Server Layered System Code on Demand (optional)  Getting Started
  WPPusher (optional) WP API Plugin Authentication plugin (oAuth, Basic, Cookie)  If Basic, install Application Passwords Plugin  SearchWP API Route plugin (optional)  What can it to
@@ -45,10 +45,10 @@ While site development has been put on hold, the project will be resumed shortly
     
     <item>
       <title>HEWEB16: Day 1</title>
-      <link>http://gregoryamcmullen.com/posts/2016/10/heweb16-day-1/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2016/10/heweb16-day-1/</link>
       <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2016/10/heweb16-day-1/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2016/10/heweb16-day-1/</guid>
       <description>We Don’t Need No Education: Web Governance Through On-Demand Online Training  House of hoarders. Used Site improve to manage the basic website. Integrated personal data with industry data
  Content wasn&amp;rsquo;t focused on audience
  75% of traffic does not go through the homepage
@@ -59,10 +59,10 @@ While site development has been put on hold, the project will be resumed shortly
     
     <item>
       <title>Technical Academy Notes, Day 2</title>
-      <link>http://gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-2/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-2/</link>
       <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-2/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-2/</guid>
       <description>Progressive Web Apps Presenter: Pete LePage @petele
  Native apps have a better capability for end user; Web apps have more reach. Progressive web apps are a new level of caring about the quality of the UX  UX needs to be:
  Reliable (never see an offline connection) Fast (developers.google.com/web)  56% of users will abandon a site if it takes longer than 3 seconds to load  Engaging  Immersive (full-screen, theming, orientation, etc) Home screen (auto-adding to home screen) Notifications (push notifications)   Washington post web app</description>
@@ -70,10 +70,10 @@ While site development has been put on hold, the project will be resumed shortly
     
     <item>
       <title>Technical Academy Notes, Day 1</title>
-      <link>http://gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-1/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-1/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-1/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2016/10/technical-academy-notes-day-1/</guid>
       <description>Pattern-Driven Design and Development Presenter: Patrick Fulton; Twitter
 What are patterns  Something designed or used as a model for making things Solution to a common problem  best practice or template for solving problems tab/accordion/button/modal in UX   Pattern Library: library of standardized UI patterns
  navigation, dropdowns, accordion, layout (grid) resource to build from  mail chimp pattern library (ux.mailchimp.com/patterns/feedback)
@@ -82,10 +82,10 @@ Design System: Everything that makes up your produc</description>
     
     <item>
       <title>Open Graph</title>
-      <link>http://gregoryamcmullen.com/posts/2016/04/open-graph/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2016/04/open-graph/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2016/04/open-graph/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2016/04/open-graph/</guid>
       <description>For April Fool&amp;rsquo;s day we decided to &amp;ldquo;launch&amp;rdquo; a new major, Emoji as a Second Language. Cute right? I thought so too, until the request came in for social share buttons.
 In most cases, you&amp;rsquo;d just use the default social share buttons, right? Right.
 Well, I&amp;rsquo;m better than that so I decided to expand upon the effort and create my own social share buttons (with the help of a certain search engine).</description>
@@ -93,20 +93,20 @@ Well, I&amp;rsquo;m better than that so I decided to expand upon the effort and 
     
     <item>
       <title>A New Site</title>
-      <link>http://gregoryamcmullen.com/posts/2016/03/a-new-site/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2016/03/a-new-site/</link>
       <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2016/03/a-new-site/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2016/03/a-new-site/</guid>
       <description>I&amp;rsquo;ve been thinking about different ways to redevelop my personal site. Since joining Xavier in 2014, I&amp;rsquo;ve been isolated in the Campus Suite CMS, which has it&amp;rsquo;s ups and downs much like many CMS&amp;rsquo; out there.
 After doing a site evaluation, I determined that WordPress isn&amp;rsquo;t meeting my needs anymore. But it&amp;rsquo;s nothing that WordPress has done, it&amp;rsquo;s about me and taking care of my site. Working with WordPress Themes can be a complicated mess, plus there&amp;rsquo;s the database that needs attention.</description>
     </item>
     
     <item>
       <title>1and1.com PHP Include Path</title>
-      <link>http://gregoryamcmullen.com/posts/2015/12/1and1.com-php-include-path/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2015/12/1and1.com-php-include-path/</link>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2015/12/1and1.com-php-include-path/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2015/12/1and1.com-php-include-path/</guid>
       <description>I&amp;rsquo;ve been working on revising the code for OurMenuMaker.com and had been struggling with setting the project up properly.
 After looking at different PHP based projects, I determined that I should look into defining my structure similar to the following:
 . ├── public_html | ├── css | ├── js | ├── images | └── index.php ├── includes | └── config.php  The end product will be much more sophisticated, but this is why I started researching how to set the include path.</description>
@@ -114,10 +114,10 @@ After looking at different PHP based projects, I determined that I should look i
     
     <item>
       <title>A Thanksgiving Treat</title>
-      <link>http://gregoryamcmullen.com/posts/2015/11/a-thanksgiving-treat/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2015/11/a-thanksgiving-treat/</link>
       <pubDate>Thu, 26 Nov 2015 00:30:33 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2015/11/a-thanksgiving-treat/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2015/11/a-thanksgiving-treat/</guid>
       <description>With Thanksgiving right around the corner, my wife had the idea to make some mini apple pies to bring to the family gathering since we had leftover apples from Backyard Orchard.
 I&amp;#8217;ve been using an apple pie recipe from the&amp;nbsp;Moms Who Think website (no, it&amp;#8217;s not&amp;nbsp;just for moms) and have fallen in love with the Apple Crumb Pie and their butter crust recipes. If I can make it, so can you.</description>
     </item>

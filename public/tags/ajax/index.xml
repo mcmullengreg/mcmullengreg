@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ajax on Greg McMullen</title>
-    <link>http://gregoryamcmullen.com/tags/ajax/</link>
+    <link>http://www.gregoryamcmullen.com/tags/ajax/</link>
     <description>Recent content in ajax on Greg McMullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 07 Oct 2011 14:02:33 +0000</lastBuildDate>
     
-	<atom:link href="http://gregoryamcmullen.com/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gregoryamcmullen.com/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Facebook Contact Forms with AJAX and PHP</title>
-      <link>http://gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</link>
       <pubDate>Fri, 07 Oct 2011 14:02:33 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</guid>
       <description>While working today, I was having an issue finding information on how to add a lead capture form on our Facebook Page. Luckily I stumbled across this amazing post! Submitting a Contact Form via AJAX From Your Facebook Page
 However, this solution didn&amp;#8217;t work out of the box so I had to pair it with PHP.
 The Facebook Code Both of these pieces of code should be placed on your Static HTML Page/Tab</description>

@@ -10,7 +10,6 @@ categories:
   - Coding
 tags:
   - asp
-  - 'c#'
   - coding
   - page titles
   - razor

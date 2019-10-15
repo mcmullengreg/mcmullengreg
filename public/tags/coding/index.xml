@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coding on Greg McMullen</title>
-    <link>http://gregoryamcmullen.com/tags/coding/</link>
+    <link>http://www.gregoryamcmullen.com/tags/coding/</link>
     <description>Recent content in coding on Greg McMullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 29 May 2013 10:02:14 +0000</lastBuildDate>
     
-	<atom:link href="http://gregoryamcmullen.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gregoryamcmullen.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Updated: Umbraco Page Titles</title>
-      <link>http://gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</link>
       <pubDate>Wed, 29 May 2013 10:02:14 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</guid>
       <description>Since creating the first rendition of the Structured Page Titles for Umbraco, I decided it would be worthwhile to revisit and clean up the size of the file and make it much more readable. Umbraco makes it easy to define page titles, but this script helps reduce the repetitive nature of titles in larger sites.
 To use this code you will need to create a shortPageTitle and pageTitle in your document type(s).</description>
     </item>
     
     <item>
       <title>Structured Umbraco Page Titles</title>
-      <link>http://gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</link>
       <pubDate>Tue, 22 Jan 2013 09:53:18 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</guid>
       <description>If you are looking for some code to generate tiered page titles within Umbraco here is an example that worked for our site. This code assumes you are using pageTitle as a DocType element.
  </description>
     </item>
     
     <item>
       <title>Creating Custom Fallback Navigation</title>
-      <link>http://gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</link>
       <pubDate>Mon, 30 Jul 2012 11:29:51 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</guid>
       <description>When creating WordPress themes, sometimes it&amp;#8217;s necessary to create your own menus. With 3.0+ you are able to create menus as well as a fallback menu.
 Within the fallback_cb, you can actually call your own functions to create a customized menu (helpful when developing for network of blogs).
 Here&amp;#8217;s what you&amp;#8217;ll need to do.
@@ -46,10 +46,10 @@ Here&amp;#8217;s what you&amp;#8217;ll need to do.
     
     <item>
       <title>Facebook Contact Forms with AJAX and PHP</title>
-      <link>http://gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</link>
       <pubDate>Fri, 07 Oct 2011 14:02:33 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</guid>
       <description>While working today, I was having an issue finding information on how to add a lead capture form on our Facebook Page. Luckily I stumbled across this amazing post! Submitting a Contact Form via AJAX From Your Facebook Page
 However, this solution didn&amp;#8217;t work out of the box so I had to pair it with PHP.
 The Facebook Code Both of these pieces of code should be placed on your Static HTML Page/Tab</description>

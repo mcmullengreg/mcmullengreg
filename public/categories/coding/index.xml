@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on Greg McMullen</title>
-    <link>http://gregoryamcmullen.com/categories/coding/</link>
+    <link>http://www.gregoryamcmullen.com/categories/coding/</link>
     <description>Recent content in Coding on Greg McMullen</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 21 May 2014 13:00:29 +0000</lastBuildDate>
     
-	<atom:link href="http://gregoryamcmullen.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gregoryamcmullen.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Embedded Twitter Feed for Umbraco</title>
-      <link>http://gregoryamcmullen.com/posts/2014/05/embedded-twitter-feed-for-umbraco/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2014/05/embedded-twitter-feed-for-umbraco/</link>
       <pubDate>Wed, 21 May 2014 13:00:29 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2014/05/embedded-twitter-feed-for-umbraco/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2014/05/embedded-twitter-feed-for-umbraco/</guid>
       <description> Basic embedded twitter feed macro for usage on your Umbraco website. There is a 7.x version and a 4.11.x version available.
 Takes parameters to embed a twitter timeline including the ability to:
  Change height and width Link Color Data-Chrome settings (header, footer, scrollbar) Number of Tweets to show  Embedded Twitter Feed CSHTML  </description>
@@ -24,50 +24,50 @@ Takes parameters to embed a twitter timeline including the ability to:
     
     <item>
       <title>Umbraco Package: Form Wrangler</title>
-      <link>http://gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</link>
       <pubDate>Tue, 06 May 2014 16:09:07 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2014/05/umbraco-package-form-wrangler/</guid>
       <description>Form Wrangler is a package for Umbraco that assembles a list of files, with links, from a selected media library folder ID. This package was initially designed for the Rose-Hulman Institute of Technology Website and released to the Our Umbraco community on 22 November 2013.
 Form Wrangler Parameters:  Name: Media Folder Alias: mediaFolder Type: mediaCurrent  Form Wrangler CSHTML  Disclaimer: Form Wrangler was designed &amp;#8220;as-is&amp;#8221;. Greg McMullen does not provide any warranty of the item whatsoever, whether express, implied or statutory, including, but not limited to, any warranty of merchantability or fitness for a particular purpose or any warranty that the contents of the item will be error-free.</description>
     </item>
     
     <item>
       <title>Updated: Umbraco Page Titles</title>
-      <link>http://gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</link>
       <pubDate>Wed, 29 May 2013 10:02:14 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2013/05/updated-umbraco-page-titles/</guid>
       <description>Since creating the first rendition of the Structured Page Titles for Umbraco, I decided it would be worthwhile to revisit and clean up the size of the file and make it much more readable. Umbraco makes it easy to define page titles, but this script helps reduce the repetitive nature of titles in larger sites.
 To use this code you will need to create a shortPageTitle and pageTitle in your document type(s).</description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>http://gregoryamcmullen.com/posts/2013/04/events/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2013/04/events/</link>
       <pubDate>Sun, 21 Apr 2013 16:46:24 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2013/04/events/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2013/04/events/</guid>
       <description>Some code from a side project using the events build out from Noel Tock.
 Event Shortcode &amp;lt;? /* ------------------- THEME FORCE ---------------------- */ /* * EVENTS SHORTCODES (CUSTOM POST TYPE) * http://www.noeltock.com/web-design/wordpress/how-to-custom-post-types-for-events-pt-2/ */ // 1) FULL EVENTS //*********************************************************************************** function tf_events_full ( $atts ) { // - define arguments - extract(shortcode_atts(array( &amp;#39;limit&amp;#39; =&amp;amp;gt; &amp;#39;10&amp;#39;, // # of events to show  &amp;#39;description&amp;#39; =&amp;amp;gt; &amp;#39;150&amp;#39; // # of Chars to show in description  ), $atts)); // ===== OUTPUT FUNCTION ===== ob_start(); // ===== LOOP: FULL EVENTS SECTION ===== // - hide events that are older than 6am today (because some parties go past your bedtime) - $today6am = strtotime(&amp;#39;today 6:00&amp;#39;) + ( get_option( &amp;#39;gmt_offset&amp;#39; ) * 3600 ); // - query - global $wpdb; $querystr = &amp;#34;SELECT * FROM $wpdb-&amp;amp;gt;posts wposts, $wpdb-&amp;amp;gt;postmeta metastart, $wpdb-&amp;amp;gt;postmeta metaend WHERE (wposts.</description>
     </item>
     
     <item>
       <title>Structured Umbraco Page Titles</title>
-      <link>http://gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</link>
       <pubDate>Tue, 22 Jan 2013 09:53:18 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2013/01/structured-umbraco-page-titles/</guid>
       <description>If you are looking for some code to generate tiered page titles within Umbraco here is an example that worked for our site. This code assumes you are using pageTitle as a DocType element.
  </description>
     </item>
     
     <item>
       <title>Creating Custom Fallback Navigation</title>
-      <link>http://gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</link>
       <pubDate>Mon, 30 Jul 2012 11:29:51 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2012/07/creating-custom-fallback-navigation/</guid>
       <description>When creating WordPress themes, sometimes it&amp;#8217;s necessary to create your own menus. With 3.0+ you are able to create menus as well as a fallback menu.
 Within the fallback_cb, you can actually call your own functions to create a customized menu (helpful when developing for network of blogs).
 Here&amp;#8217;s what you&amp;#8217;ll need to do.
@@ -77,10 +77,10 @@ Here&amp;#8217;s what you&amp;#8217;ll need to do.
     
     <item>
       <title>Facebook Contact Forms with AJAX and PHP</title>
-      <link>http://gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</link>
+      <link>http://www.gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</link>
       <pubDate>Fri, 07 Oct 2011 14:02:33 +0000</pubDate>
       
-      <guid>http://gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</guid>
+      <guid>http://www.gregoryamcmullen.com/posts/2011/10/facebook-contact-forms-with-ajax-and-php/</guid>
       <description>While working today, I was having an issue finding information on how to add a lead capture form on our Facebook Page. Luckily I stumbled across this amazing post! Submitting a Contact Form via AJAX From Your Facebook Page
 However, this solution didn&amp;#8217;t work out of the box so I had to pair it with PHP.
 The Facebook Code Both of these pieces of code should be placed on your Static HTML Page/Tab</description>
