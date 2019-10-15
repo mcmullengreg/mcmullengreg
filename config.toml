@@ -1,4 +1,4 @@
-baseURL = "http://www.gregoryamcmullen.com"
+baseURL = "https://www.gregoryamcmullen.com"
 title   = "Greg McMullen"
 
 DefaultContentLanguage = "en"
