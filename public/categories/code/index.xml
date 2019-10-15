@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Greg McMullen</title>
+    <link>http://gregoryamcmullen.com/categories/code/</link>
+    <description>Recent content in code on Greg McMullen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://gregoryamcmullen.com/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Graph</title>
+      <link>http://gregoryamcmullen.com/posts/2016/04/open-graph/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/posts/2016/04/open-graph/</guid>
+      <description>For April Fool&amp;rsquo;s day we decided to &amp;ldquo;launch&amp;rdquo; a new major, Emoji as a Second Language. Cute right? I thought so too, until the request came in for social share buttons.
+In most cases, you&amp;rsquo;d just use the default social share buttons, right? Right.
+Well, I&amp;rsquo;m better than that so I decided to expand upon the effort and create my own social share buttons (with the help of a certain search engine).</description>
+    </item>
+    
+    <item>
+      <title>A New Site</title>
+      <link>http://gregoryamcmullen.com/posts/2016/03/a-new-site/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/posts/2016/03/a-new-site/</guid>
+      <description>I&amp;rsquo;ve been thinking about different ways to redevelop my personal site. Since joining Xavier in 2014, I&amp;rsquo;ve been isolated in the Campus Suite CMS, which has it&amp;rsquo;s ups and downs much like many CMS&amp;rsquo; out there.
+After doing a site evaluation, I determined that WordPress isn&amp;rsquo;t meeting my needs anymore. But it&amp;rsquo;s nothing that WordPress has done, it&amp;rsquo;s about me and taking care of my site. Working with WordPress Themes can be a complicated mess, plus there&amp;rsquo;s the database that needs attention.</description>
+    </item>
+    
+    <item>
+      <title>1and1.com PHP Include Path</title>
+      <link>http://gregoryamcmullen.com/posts/2015/12/1and1.com-php-include-path/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/posts/2015/12/1and1.com-php-include-path/</guid>
+      <description>I&amp;rsquo;ve been working on revising the code for OurMenuMaker.com and had been struggling with setting the project up properly.
+After looking at different PHP based projects, I determined that I should look into defining my structure similar to the following:
+. ├── public_html | ├── css | ├── js | ├── images | └── index.php ├── includes | └── config.php  The end product will be much more sophisticated, but this is why I started researching how to set the include path.</description>
+    </item>
+    
+    <item>
+      <title>Working with Bower</title>
+      <link>http://gregoryamcmullen.com/posts/2015/11/working-with-bower/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/posts/2015/11/working-with-bower/</guid>
+      <description>While working on the redevelopment for the Xavier University V4 project. I&amp;rsquo;ve determined that I needed to get a better understanding of the various components that I&amp;rsquo;m using to manage the project. One of the components is Bower. I didn&amp;rsquo;t quite grasp the idea between a dependency and a devDependency within pacakge.json.
+Luckily I&amp;rsquo;m not the only person that had no idea.
+ Dependencies - Intended for use in production, and implied that it will be required for development purposes too.</description>
+    </item>
+    
+    <item>
+      <title>Project Update</title>
+      <link>http://gregoryamcmullen.com/posts/2015/10/project-update/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/posts/2015/10/project-update/</guid>
+      <description>After a beginning minor development in PHP for the temp v4 project, I&amp;rsquo;ve decided to go ahead and install a ColdFusion development server locally to begin developing the template in ColdFusion.
+Luckily I&amp;rsquo;ve had some experience converting PHP to ColdFusion, although it was rather simple since all I used were a few variables to determine what stylesheet loaded on the page and a few includes.
+Header Improvements While it may not seem significant, I&amp;rsquo;ve been able to do some cleanup with the actual HTML code for the header file.</description>
+    </item>
+    
+  </channel>
+</rss>
