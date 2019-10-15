@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Greg McMullen</title>
+    <link>http://gregoryamcmullen.com/projects/</link>
+    <description>Recent content in Projects on Greg McMullen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://gregoryamcmullen.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Xavier University</title>
+      <link>http://gregoryamcmullen.com/projects/xavier-university/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/projects/xavier-university/</guid>
+      <description>2019  Lead Developer for V5 project  2018  Provided training, documentation and development for new CMS environment  2017  Selection of CMS, V4 conversion to accommodate the new CMS  2016  Lead Developer for Content Delivery System  Modified CMS blog component Integrated unique tracking system for article views and impressions  V4 template redevelopment (on hold)  Working to clean up base code for accessibility and performance</description>
+    </item>
+    
+    <item>
+      <title>Menu Maker (defunct)</title>
+      <link>http://gregoryamcmullen.com/projects/menu-maker/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/projects/menu-maker/</guid>
+      <description>Designed as a replacement for paper recipes OurMenuMaker.com has provided the McMullen household with more than just recipe management.
+While site development has been put on hold, the project will be resumed shortly with a completely new interface.</description>
+    </item>
+    
+    <item>
+      <title>Form Wrangler</title>
+      <link>http://gregoryamcmullen.com/projects/form-wrangler/</link>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/projects/form-wrangler/</guid>
+      <description>Initially built for handling PDF Documents within the media library, this tool can help display documents onto your website in a snap. Creates a list of the name and URL for files within a specified media library folder. Simply choose the folder you wish to start from and the code does the rest.
+Change Log  v2.1 - Modified id of folders to be url target friendly v2.0 - Added functionality: Able to traverse child folders v1.</description>
+    </item>
+    
+    <item>
+      <title>Embedded Twitter Widget</title>
+      <link>http://gregoryamcmullen.com/projects/twitter-widget/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://gregoryamcmullen.com/projects/twitter-widget/</guid>
+      <description>Basic embedded timeline macro for usage on your site. There is an MVC (tested in 7.0) and a Razor (tested in 4.11.8) version of the macro. Takes parameters to embed a twitter timeline including the ability to:
+ Change height and width Link Color Data-Chrome settings (header, footer, scrollbar) Number of Tweets to show  Download</description>
+    </item>
+    
+  </channel>
+</rss>
