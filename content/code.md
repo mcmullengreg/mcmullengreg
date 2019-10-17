@@ -1,16 +1,8 @@
 ---
-
 title: Projects
 permalink: /projects/
 
-layout: archive
-
 excerpt: Greg McMullen's past, present and public projects.
-author_profile: true
-
-header: 
-  overlay_color: #333;
-  
 ---
 
 Below is a select list of projects that Greg is working on, or has worked on in the past.
@@ -23,7 +15,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
     - Development of HTML, CSS, JS including establishing our own code framework.
     - Development of Cascade CMS components, shortcode system and various templates, and code formats.
 * [Gregory A McMullen](http://gregoryamcmullen.com) - This website
-  * Currently running on Hugo
+  * Currently running on Hugo and Netlify
 
 ## Past Projects
 
