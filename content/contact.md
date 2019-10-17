@@ -7,7 +7,7 @@ date = "2019-10-17"
 +++
 
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" data-netflify-recaptcha="true">
   <fieldset>
     <legend>Have a question or comment? Reach out.</legend>
     <input type="text" name="name" placeholder="Your Name" />
