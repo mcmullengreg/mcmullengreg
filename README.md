@@ -1,3 +1,6 @@
 # Hey. I'm Greg. 
 
-![I voted](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
+- Husband of Wife. Dad of kids. Coach of Swimmers.
+- Coder of PHP, HTML, CSS, and JS.
+- Attempting to do more in Laravel, Vanilla JS while also dabbling in Vue.js.
+- FTE: Web Dev @ [Xavier University](https://www.xavier.edu) making cool stuff happen.
