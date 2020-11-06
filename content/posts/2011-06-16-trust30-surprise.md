@@ -2,7 +2,7 @@
 title: 'trust30: Surprise!'
 date: 2011-06-16T12:15:04+00:00
 
-categories:
+tags:
   - Trust30
 
 ---

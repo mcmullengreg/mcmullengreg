@@ -2,8 +2,6 @@
 title: 'trust30: My Personal (un)Shared Belief'
 date: 2011-06-02T19:16:40+00:00
 
-categories:
-  - Trust30
 tags:
   - Greg McMullen
   - indiana

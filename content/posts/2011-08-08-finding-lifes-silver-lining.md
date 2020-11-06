@@ -2,9 +2,6 @@
 title: Finding Life's Silver Lining
 date: 2011-08-08T21:34:50+00:00
 
-categories:
-  - Nature
-  - Photography
 tags:
   - clouds
   - Greg McMullen

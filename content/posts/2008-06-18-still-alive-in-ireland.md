@@ -1,11 +1,6 @@
 ---
 title: Still Alive in Ireland
 date: 2008-06-18
-type:
-- post
-- posts
-series:
-- Ireland 2008
 
 ---
 Hey,

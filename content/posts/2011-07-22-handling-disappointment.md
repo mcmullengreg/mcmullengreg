@@ -2,15 +2,12 @@
 id: 10561
 title: Do You Handle Disappointment?
 date: 2011-07-22T11:53:03+00:00
-header:
-  teaser: swim-teaser.jpg
+cover:
+  image: images/swim-teaser.jpg
 
 guid: http://gregoryamcmullen.com/?p=10561
 permalink: /coaching/handling-disappointment/
 
-categories:
-  - Coaching
-  - Life
 tags:
   - Coaching
   - disappointment

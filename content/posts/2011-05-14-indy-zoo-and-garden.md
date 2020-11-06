@@ -4,12 +4,6 @@ date: 2011-05-14T22:55:41+00:00
 
 excerpt: Decided to take a trip up to the Indy Zoo. Sarah and I really enjoyed being outside and I was surprised how active all of the animals were.
 
-categories:
-  - Landscape
-  - Life
-  - Nature
-  - Personal
-  - Photography
 tags:
   - animals
   - indiana

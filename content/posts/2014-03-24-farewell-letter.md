@@ -2,7 +2,7 @@
 title: A Farewell Letter
 date: 2014-03-24T09:24:21+00:00
 
-categories:
+tags:
   - Coaching
   - Memories
 

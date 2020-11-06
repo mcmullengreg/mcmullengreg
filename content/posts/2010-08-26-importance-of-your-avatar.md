@@ -1,11 +1,10 @@
 ---
 title: Importance of your Avatar
 date: 2010-08-26T10:48:12+00:00
-categories:
+tags:
   - Marketing
   - Personal
   - Social Media
-tags:
   - choosing your avatar
   - personal marketing
   - Social Media

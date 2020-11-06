@@ -3,10 +3,6 @@ title: 'Prejudice is Alive and Well in 2011...Unfortunately'
 date: 2011-05-25
 excerpt: "I was enjoying a pleasant experience at a suburban men's clothing store the other day. My sales person, John was enthusiastically taking my money and I was excited about the clothing he had up-sold me. I only went in for a shirt…the alterations on my new sport coat and 2 pair of slacks would be ready in 2 days."
 
-categories:
-  - Guest post
-  - Life
-  - Personal
 tags:
   - controversial
   - controversy

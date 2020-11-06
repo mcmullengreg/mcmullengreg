@@ -2,9 +2,7 @@
 title: "Form Wrangler"
 excerpt: "Umbraco component for listing documents within the media library."
 date: 2014-10-03
-type:
-- post
-- posts
+disableShare: true
 
 ---
 
@@ -20,4 +18,4 @@ Creates a list of the name and URL for files within a specified media library fo
 - v1.0 - Created list of files and urls from a single depth
 
 
-[View on GitHub](https://github.com/mcmullengreg/formWrangler){: .btn .btn--large} [Download](https://our.umbraco.org/projects/collaboration/form-wrangler/){: .btn .btn--large}
+[View on GitHub](https://github.com/mcmullengreg/formWrangler) | [Download](https://our.umbraco.org/projects/collaboration/form-wrangler/)

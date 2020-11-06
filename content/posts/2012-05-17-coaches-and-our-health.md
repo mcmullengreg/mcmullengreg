@@ -2,8 +2,6 @@
 title: Coaches and Our Health
 date: 2012-05-17T22:22:27+00:00
 
-categories:
-  - Coaching
 tags:
   - Coaching
   - health

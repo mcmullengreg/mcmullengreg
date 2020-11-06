@@ -3,13 +3,12 @@ id: 3
 title: Staying Motivated by Setting Goals
 date: 2013-07-10T09:35:39+00:00
 
-header:
-  teaser: swim-teaser.jpg
+cover:
+  image: images/swim-teaser.jpg
 
 guid: http://gregoryamcmullen.com/?p=3
 permalink: /coaching/motivation/staying-motivated-by-setting-goals/
-categories:
-  - Motivation
+
 tags:
   - Mental Barriers
   - Motivation

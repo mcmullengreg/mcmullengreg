@@ -1,18 +1,25 @@
 ---
 title: "Xavier University"
+date: 2020-11-6
 excerpt: Selection of projects from working at Xavier University
-type:
-- post
-- posts
-date: 2019-10-14
+disableShare: true
+showToc: true
 ---
+## 2020
+
+- Road to/through Xavier developer, worked on bringing Vue.js into the student workflow
+- Lead Developer for CitasCenter.com redesign
+
 ## 2019
-- Lead Developer for V5 project
+
+- Lead Developer for V5 project. Managed overall workflow and code development practices
 
 ## 2018
+
 - Provided training, documentation and development for new CMS environment
 
 ## 2017
+
 - Selection of CMS, V4 conversion to accommodate the new CMS
 
 ## 2016

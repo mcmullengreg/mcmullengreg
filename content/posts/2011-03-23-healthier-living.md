@@ -2,9 +2,6 @@
 title: Healthier Living
 date: 2011-03-23T10:49:07+00:00
 
-categories:
-  - Life
-  - Personal
 tags:
   - excercise
   - health

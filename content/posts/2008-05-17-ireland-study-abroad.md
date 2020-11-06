@@ -1,11 +1,7 @@
 ---
 title: Ireland Study Abroad
 date: 2008-05-18
-type:
-- post
-- posts
-series:
-- Ireland 2008
+
 ---
 
 Well,

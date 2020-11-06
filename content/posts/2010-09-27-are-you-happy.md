@@ -1,14 +1,8 @@
 ---
 title: Are You Happy?
 date: 2010-09-27T10:30:35+00:00
-author: 
-- name: Randy Clark
+author: "Randy Clark"
 
-categories:
-  - Guest post
-  - Life
-  - Marketing
-  - Personal
 tags:
   - job satisfaction
   - making work fun

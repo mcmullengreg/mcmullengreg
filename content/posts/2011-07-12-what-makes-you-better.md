@@ -2,8 +2,6 @@
 title: What Makes you Better?
 date: 2011-07-12T13:41:11+00:00
 
-categories:
-  - Coaching
 tags:
   - chasing your dreams
   - Coaching

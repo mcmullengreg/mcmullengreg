@@ -2,7 +2,7 @@
 
 title:  "Working with Bower"
 date: 2015-11-11
-categories: 
+tags: 
 - code
 
 ---

@@ -3,8 +3,6 @@ id: 10459
 title: 'trust30: Top 10 Fears'
 date: 2011-06-08T22:11:35+00:00
 
-categories:
-  - Trust30
 tags:
   - chasing your dreams
   - fears

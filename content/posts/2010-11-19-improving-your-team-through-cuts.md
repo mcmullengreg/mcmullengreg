@@ -2,7 +2,7 @@
 title: Improving Your Team Through Cuts
 date: 2010-11-19T12:27:48+00:00
 
-categories:
+tags:
   - Life
   - Marketing
   - Personal

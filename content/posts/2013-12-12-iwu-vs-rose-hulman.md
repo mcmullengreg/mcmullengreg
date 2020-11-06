@@ -1,9 +1,9 @@
 ---
 title: 'Photos: IWU vs Rose-Hulman'
 date: 2013-12-12T14:00:33+00:00
-categories:
-  - Swimming
+
 tags:
+  - swim
   - IWU vs Rose-Hulman
   - Photos
   - swimming

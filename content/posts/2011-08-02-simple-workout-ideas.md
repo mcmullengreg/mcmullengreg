@@ -2,9 +2,6 @@
 title: Simple Workout Ideas
 date: 2011-08-02T08:00:32+00:00
 
-categories:
-  - Coaching
-  - Life
 tags:
   - fitness
   - fitness ideas

@@ -2,7 +2,7 @@
 
 title: Technical Academy Notes, Day 1
 date: 2016-10-15
-categories: 
+tags: 
 - heweb16
 
 except: Notes from the technical academy at #HEWEB16

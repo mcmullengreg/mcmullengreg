@@ -1,11 +1,7 @@
 ---
 title: Ireland Day 8
 date: 2008-06-21
-type:
-- post
-- posts
-series: 
-- Ireland 2008
+
 ---
 Today I am in County Cork, Cork City to be exact.
 

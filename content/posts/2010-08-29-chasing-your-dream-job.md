@@ -2,10 +2,9 @@
 title: Chasing Your Dream Job
 date: 2010-08-29T23:38:31+00:00
 
-categories:
+tags:
   - Life
   - Personal
-tags:
   - chasing your dreams
   - dream job
   - jobs

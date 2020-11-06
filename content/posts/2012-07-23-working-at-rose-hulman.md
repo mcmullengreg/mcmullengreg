@@ -2,9 +2,6 @@
 title: Working at Rose-Hulman
 date: 2012-07-23T18:00:34+00:00
 
-categories:
-  - Life
-  - Personal
 tags:
   - personal life
   - Rose-Hulman

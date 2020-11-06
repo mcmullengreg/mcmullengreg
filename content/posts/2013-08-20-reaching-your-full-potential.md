@@ -1,9 +1,7 @@
 ---
 title: Reaching Your Full Potential
 date: 2013-08-20T09:15:43+00:00
-categories:
-  - Coaching
-  - Motivation
+
 tags:
   - full potential
   - Reaching Your Full Potential

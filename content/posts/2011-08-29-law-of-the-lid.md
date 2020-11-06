@@ -2,10 +2,6 @@
 title: Law of the Lid
 date: 2011-08-29T12:57:27+00:00
 
-categories:
-  - Coaching
-  - Life
-  - Personal
 tags:
   - business
   - Coaching

@@ -2,8 +2,6 @@
 title: 'Job Searching: What Not to Do!'
 date: 2011-06-21T19:37:34+00:00
 
-categories:
-  - Life
 tags:
   - chasing your dreams
   - dream job

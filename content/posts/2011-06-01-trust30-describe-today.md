@@ -3,10 +3,6 @@ id: 10302
 title: 'trust30: Describe Today'
 date: 2011-06-01T11:17:03+00:00
 
-categories:
-  - Life
-  - Personal
-  - Trust30
 tags:
   - Greg McMullen
   - indiana

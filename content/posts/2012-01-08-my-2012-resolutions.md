@@ -2,9 +2,6 @@
 title: My 2012 Resolutions
 date: 2012-01-08T22:29:41+00:00
 
-categories:
-  - Life
-  - Personal
 tags:
   - 2012
   - goal setting

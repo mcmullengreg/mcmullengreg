@@ -2,10 +2,6 @@
 title: Sports and Education
 date: 2011-01-12T11:29:26+00:00
 
-categories:
-  - Coaching
-  - Life
-  - Personal
 tags:
   - Coaching
   - education

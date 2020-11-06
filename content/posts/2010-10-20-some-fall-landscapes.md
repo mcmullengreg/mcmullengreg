@@ -4,11 +4,6 @@ date: 2010-10-20T19:32:26+00:00
 
 excerpt: While walking a trail in Greenwood, IN I decided to stop and get a picture of the leaves that had fallen.
 
-categories:
-  - Landscape
-  - Life
-  - Nature
-  - Photography
 tags:
   - greenwood
   - indiana

@@ -3,12 +3,12 @@ id: 10098
 title: Bird Photos
 date: 2011-03-14T21:32:23+00:00
 
-header:
-  image: posts/bird-photos/1.jpg
+cover:
+  image: images/posts/bird-photos/1.jpg
 
 permalink: /photography/bird-photos/
 
-categories:
+tags:
   - Nature
   - Photography
 

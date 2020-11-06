@@ -2,10 +2,6 @@
 title: Bringing a Team Together
 date: 2010-11-30T16:25:15+00:00
 
-categories:
-  - Coaching
-  - Life
-  - Personal
 tags:
   - Coaching
   - swimming

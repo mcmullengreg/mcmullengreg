@@ -2,8 +2,6 @@
 title: Help Change Stalking Laws
 date: 2011-06-07T14:03:30+00:00
 
-categories:
-  - Life
 tags:
   - Greg McMullen
   - personal life

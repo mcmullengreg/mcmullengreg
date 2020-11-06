@@ -2,8 +2,6 @@
 title: Chicken Salad with fresh Veggies
 date: 2012-06-13T20:07:45+00:00
 
-categories:
-  - Cooking
 tags:
   - chicken salad
   - Edamame

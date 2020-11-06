@@ -1,9 +1,7 @@
 ---
 title: Preparing for Work Life
 date: 2010-09-23T09:30:22+00:00
-categories:
-  - Life
-  - Personal
+
 tags:
   - business life
   - personal life

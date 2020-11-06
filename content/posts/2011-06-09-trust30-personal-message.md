@@ -2,8 +2,6 @@
 title: 'trust30: Personal Message'
 date: 2011-06-09T20:53:15+00:00
 
-categories:
-  - Trust30
 tags:
   - Greg McMullen
   - indiana

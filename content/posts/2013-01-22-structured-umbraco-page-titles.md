@@ -6,9 +6,8 @@ date: 2013-01-22T09:53:18+00:00
 
 permalink: /coding/structured-umbraco-page-titles/
 
-categories:
-  - Coding
 tags:
+  - code
   - asp
   - coding
   - page titles

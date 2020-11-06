@@ -2,8 +2,6 @@
 title: 'trust30: Travel'
 date: 2011-06-04T12:11:09+00:00
 
-categories:
-  - Trust30
 tags:
   - Greg McMullen
   - Ireland

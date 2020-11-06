@@ -2,10 +2,6 @@
 title: Reaffirming a Coaching Career Choice
 date: 2013-01-29T09:35:16+00:00
 
-categories:
-  - Coaching
-  - Life
-  - Personal
 tags:
   - featured
 format: quote

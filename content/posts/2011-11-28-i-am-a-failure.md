@@ -2,9 +2,6 @@
 title: I am a failure
 date: 2011-11-28T12:13:41+00:00
 
-categories:
-  - Life
-  - Personal
 tags:
   - Failure
 

@@ -5,10 +5,9 @@ date: 2011-10-07T14:02:33+00:00
 
 permalink: /coding/facebook-contact-forms-with-ajax-and-php/
 
-categories:
-  - Coding
 tags:
   - ajax
+  - code
   - coding
   - contact form on facebook
   - facebook

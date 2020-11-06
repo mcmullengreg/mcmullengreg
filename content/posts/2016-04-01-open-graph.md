@@ -1,11 +1,10 @@
 ---
 title: Open Graph
 date: 2016-04-01
-categories:
-  - code
+tags: ['code']
 ---
 
-For April Fool's day we decided to "launch" a new major, [Emoji as a Second Language](http://www.xavier.edu/emoji). Cute right? I thought so too, until the request came in for social share buttons.
+For April Fool's day we decided to "launch" a new major, Emoji as a Second Language (Defunct). Cute right? I thought so too, until the request came in for social share buttons.
 
 In most cases, you'd just use the default social share buttons, right? Right.
 

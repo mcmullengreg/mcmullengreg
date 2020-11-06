@@ -2,8 +2,6 @@
 title: 'Updated: Umbraco Page Titles'
 date: 2013-05-29T10:02:14+00:00
 
-categories:
-  - Coding
 tags:
   - asp
   - code

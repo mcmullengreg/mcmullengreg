@@ -1,8 +1,7 @@
 ---
 title: 'trust30: Courage to Connect'
 date: 2011-06-22T13:04:45+00:00
-categories:
-  - Trust30
+
 tags:
   - Coaching
   - courage

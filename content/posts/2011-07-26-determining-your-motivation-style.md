@@ -2,8 +2,6 @@
 title: Determining your Motivation Style
 date: 2011-07-26T08:54:02+00:00
 
-categories:
-  - Coaching
 tags:
   - athletics
   - Greg McMullen

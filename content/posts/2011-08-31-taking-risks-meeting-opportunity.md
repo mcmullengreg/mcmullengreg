@@ -1,9 +1,7 @@
 ---
 title: Taking Risks; Meeting Opportunity
 date: 2011-08-31T21:51:46+00:00
-categories:
-  - Life
-  - Personal
+
 tags:
   - Coaching
   - employment

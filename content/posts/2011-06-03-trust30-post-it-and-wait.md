@@ -6,19 +6,8 @@ date: 2011-06-03T11:22:13+00:00
 
 guid: http://gregoryamcmullen.com/?p=10365
 permalink: /trust30/trust30-post-it-and-wait/
-dsq_thread_id:
-  - 321419871
-shorturls:
-  - 'a:3:{s:9:"permalink";s:60:"http://gregoryamcmullen.com/trust30/trust30-post-it-and-wait";s:7:"tinyurl";s:26:"http://tinyurl.com/3rmhzs6";s:4:"isgd";s:19:"http://is.gd/VPWTJC";}'
-tweetbackscheck:
-  - 
-twittercomments:
-  - 'a:0:{}'
-tweetcount:
-  - 0
-tmac_last_id:
-  - 322482967530328064
-categories:
+
+tags:
   - Trust30
 
 ---

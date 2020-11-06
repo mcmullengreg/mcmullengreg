@@ -2,8 +2,6 @@
 title: 'trust30: Divine Idea'
 date: 2011-06-13T12:06:48+00:00
 
-categories:
-  - Trust30
 tags:
   - chasing your dreams
   - Greg McMullen

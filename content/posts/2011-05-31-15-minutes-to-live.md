@@ -2,11 +2,6 @@
 title: 'trust30: 15 Minutes to Live'
 date: 2011-05-31T19:50:22+00:00
 
-categories:
-  - Life
-  - Personal
-  - Social Media
-  - Trust30
 tags:
   - 15 to live
   - Trust30

@@ -2,7 +2,7 @@
 title: My Working Life
 date: 2012-04-02T09:37:07+00:00
 
-categories:
+tags:
   - Personal
 
 ---

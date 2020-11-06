@@ -2,9 +2,6 @@
 title: Water Under the Pier
 date: 2011-08-16T08:59:37+00:00
 
-categories:
-  - Nature
-  - Photography
 tags:
   - Greg McMullen
   - hdr

@@ -4,8 +4,7 @@ title: Creating Custom Fallback Navigation
 date: 2012-07-30T11:29:51+00:00
 
 permalink: /coding/creating-custom-fallback-navigation/
-categories:
-  - Coding
+
 tags:
   - code
   - coding

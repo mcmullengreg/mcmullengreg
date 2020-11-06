@@ -10,16 +10,20 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 ## Active Projects
 
 * [Xavier Univeristy](http://www.xavier.edu)
-  * Lead Developer V5 (5th iteration of the Xavier Website)
-    - Established coding baseline and development methodology.
-    - Development of HTML, CSS, JS including establishing our own code framework.
-    - Development of Cascade CMS components, shortcode system and various templates, and code formats.
+  * Lead Developer / Project Manager for CintasCenter.com
+    - Assisted design crew in user demo 
+    - Developed the HTML, CSS, JS to create the overall infrastructure
+    - Developed the Cascade CMS components to push out the static site infrastructure
 * [Gregory A McMullen](http://gregoryamcmullen.com) - This website
   * Currently running on Hugo and Netlify
 
 ## Past Projects
 
 * [Xavier Univeristy](https://www.xavier.edu) - (Current role)
+  * Lead Developer V5 (5th iteration of the Xavier Website)
+    - Established coding baseline and development methodology.
+    - Development of HTML, CSS, JS including establishing our own code framework.
+    - Development of Cascade CMS components, shortcode system and various templates, and code formats.
   * Content Delivery Network - Customized CMS blog component to feed as a CDN across XU website.
     - Used Owl Carousel for slider capabilities
     - Integrated unique tracking system for article views and impressions (not implemented as of 3/14/16)

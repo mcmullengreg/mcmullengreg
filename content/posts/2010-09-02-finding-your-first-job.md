@@ -2,11 +2,10 @@
 title: Finding your First Job
 date: 2010-09-02T15:46:36+00:00
 
-categories:
+tags:
   - Life
   - Marketing
   - Personal
-tags:
   - job search
   - personal marketing
 

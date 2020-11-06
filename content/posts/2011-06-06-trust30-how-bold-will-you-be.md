@@ -2,8 +2,6 @@
 title: 'trust30: How Bold Will You Be?'
 date: 2011-06-06T08:13:34+00:00
 
-categories:
-  - Trust30
 tags:
   - being bold
   - fears

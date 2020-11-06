@@ -8,8 +8,6 @@ header:
 
 permalink: /photography/fun-with-lights/
 
-categories:
-  - Photography
 tags:
   - Bulb
   - slow shutter photography

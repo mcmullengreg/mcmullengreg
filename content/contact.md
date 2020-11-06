@@ -1,19 +1,25 @@
-+++
-title = "Contact"
-date = "2019-10-17"
-
-[ author ]
-  name = "Greg McMullen"
-+++
-
+---
+title: "Contact"
+date: "2019-10-17"
+---
 
 <form name="contact" method="POST" data-netlify="true" data-netflify-recaptcha="true">
-  <fieldset>
-    <legend>Have a question or comment? Reach out.</legend>
-    <input type="text" name="name" placeholder="Your Name" />
-    <input type="email" name="email" placeholder="Email Address" />
-    <textarea name="message" placeholder="Type your Message"></textarea>
-
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
     <button type="submit">Send</button>
-  </fieldset>
+  </p>
 </form>

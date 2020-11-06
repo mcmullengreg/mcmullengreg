@@ -2,8 +2,6 @@
 title: 'trust30: Come Alive!'
 date: 2011-06-06T00:07:20+00:00
 
-categories:
-  - Trust30
 tags:
   - chasing your dreams
   - Coaching

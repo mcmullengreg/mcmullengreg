@@ -6,9 +6,8 @@ date: 2014-05-06T16:09:07+00:00
 
 guid: http://code.gregoryamcmullen.com/?p=11230
 permalink: /coding/form-wrangler/
-categories:
-  - Coding
 tags:
+  - code
   - Form Wrangler
   - Media Library
   - Media Picker

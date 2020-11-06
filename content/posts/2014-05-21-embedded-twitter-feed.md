@@ -2,9 +2,8 @@
 title: Embedded Twitter Feed for Umbraco
 date: 2014-05-21T13:00:29+00:00
 
-categories:
-  - Coding
 tags:
+  - code
   - twitter api
   - twitter timeline
   - umbraco macro

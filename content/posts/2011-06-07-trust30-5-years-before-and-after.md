@@ -2,8 +2,6 @@
 title: 'trust30: 5 Years, Before and After'
 date: 2011-06-07T09:29:06+00:00
 
-categories:
-  - Trust30
 tags:
   - chasing your dreams
   - Greg McMullen

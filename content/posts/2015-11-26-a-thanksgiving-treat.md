@@ -2,8 +2,6 @@
 title: A Thanksgiving Treat
 date: 2015-11-26T00:30:33+00:00
 
-categories:
-  - Cooking
 tags:
   - dessert
   - holiday treat

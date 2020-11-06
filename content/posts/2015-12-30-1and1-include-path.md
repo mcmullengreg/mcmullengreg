@@ -3,7 +3,7 @@
 title:  "1and1.com PHP Include Path"
 date: 2015-12-30
 
-categories: 
+tags: 
 - code
 
 ---
