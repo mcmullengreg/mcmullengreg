@@ -40,8 +40,8 @@ params:
   ShowShareButtons: false
   comments: false
   defaultTheme: dark
-  disableThemeToggle : true
-  disableSpecial1stPost : true
+  disableThemeToggle : false
+  disableSpecial1stPost : false
 
   assets:
 #     favicon: '<path / external url>'
@@ -60,17 +60,15 @@ params:
     buttons:
       - name: Posts
         url: posts
-      - name: Archive
-        url: archive
+      - name: Projects
+        url: code
 
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: "Welcome to my blog"
 
   socialIcons:
-    - name: twitter
-      url: 'https://twitter.com/mcmullen_greg'
     - name: linkedin
       url: 'https://www.linkedin.com/in/gregmcmullen'
     - name: github

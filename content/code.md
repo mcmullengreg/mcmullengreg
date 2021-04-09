@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Code Projects
 permalink: /projects/
-
+date: "2021-04-09"
 excerpt: Greg McMullen's past, present and public projects.
 ---
 
@@ -9,14 +9,23 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 
 ## Active Projects
 
-* [Xavier Univeristy](http://www.xavier.edu)
-  * Lead Developer / Project Manager for CintasCenter.com
-    - Assisted design crew in user demo 
-    - Developed the HTML, CSS, JS to create the overall infrastructure
-    - Developed the Cascade CMS components to push out the static site infrastructure
-* [Gregory A McMullen](http://gregoryamcmullen.com) - This website
-  * Currently running on Hugo and Netlify
+* Swimming Projects
+  * [Goal Tracking](https://bvillegoals.herokuapp.com/)
+    - Developed with the goal of keeping Swim Goals close to the swimmer's vest
+    - Provides a basic race strategy and practice planning idea
+    - Allows athletes to dream big as well as set realistic goals
 
+* Xavier University
+  * VueJS Developments
+    - Distinguished Scholars: _(under development)_ Will list out students from a form include, data hosted via CMS.
+    - Vue Community Module: A refresh of an old PHP based script for our prospective
+    and current student portal. 
+    - [Major Quiz](https://www.xavier.edu/major-quiz): Takes students through an interactive
+    quiz to determine a suitable major.
+  * Lead Developer / Project Manager for CintasCenter.com
+    - Developed the HTML, CSS, JS to create the overall infrastructure
+    - Developed the Cascade CMS components
+    
 ## Past Projects
 
 * [Xavier Univeristy](https://www.xavier.edu) - (Current role)
@@ -38,15 +47,14 @@ Below is a select list of projects that Greg is working on, or has worked on in 
   * Lead Developer for Road to Xavier (2014)
     - Designed/Developed HTML architecture for mobile-friendly framework
 * [McMullen Law Office](http://www.mcmullenlaw.com)
-  * McMullen Law Office website. Currently using a custom theme, version 2 is under development
-* Menu Maker
+* Menu Maker _(defunct)_
   * Recipe management system for the McMullen family and friends
 * Rose-Hulman Institute of Technology - 2012-2014
   * CMS was Umbraco, developed two macros for use on the Rose-Hulman website (CSHTML)
     - [formWrangler](https://our.umbraco.org/projects/collaboration/form-wrangler/) - Traverses a selected media folder and builds a list of files with URLS.
     - [Twitter Embedded Timeline](https://our.umbraco.org/projects/website-utilities/twitter-embedded-timeline/) - Uses the Twitter Widget API to easily embed a timeline.
 * Unique Home Solutions - 2009-2012
-  * Started with Acclaimed Roofing division, built a Drupal website to handle online marketing tasks from scratch
+  * Started with Acclaimed Roofing division, built a Drupal website to handle online marketing tasks
   * Transitioned website from static HTML to WordPress for content management
   * Managed SEO and email campaigns
   * Website is no longer an iteration of what was in place in 2012
