@@ -10,14 +10,21 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 ## Active Projects
 
 * Swimming Projects
-  * [Goal Tracking](https://bvillegoals.herokuapp.com/)
+  * Goal Tracking
     - Developed with the goal of keeping Swim Goals close to the swimmer's vest
     - Provides a basic race strategy and practice planning idea
     - Allows athletes to dream big as well as set realistic goals
 
-* Xavier University
+* UMKC
+  * Framework 2.0
+    - Cleaning up the overall CMS architecture, infrastructure and providing direction for the front and backend
+  
+    
+## Past Projects
+
+* [Xavier Univeristy](https://www.xavier.edu)
   * VueJS Developments
-    - Distinguished Scholars: _(under development)_ Will list out students from a form include, data hosted via CMS.
+    - Distinguished Scholars: Will list out students from a form include, data hosted via CMS.
     - Vue Community Module: A refresh of an old PHP based script for our prospective
     and current student portal. 
     - [Major Quiz](https://www.xavier.edu/major-quiz): Takes students through an interactive
@@ -25,10 +32,6 @@ Below is a select list of projects that Greg is working on, or has worked on in 
   * Lead Developer / Project Manager for CintasCenter.com
     - Developed the HTML, CSS, JS to create the overall infrastructure
     - Developed the Cascade CMS components
-    
-## Past Projects
-
-* [Xavier Univeristy](https://www.xavier.edu) - (Current role)
   * Lead Developer V5 (5th iteration of the Xavier Website)
     - Established coding baseline and development methodology.
     - Development of HTML, CSS, JS including establishing our own code framework.

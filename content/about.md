@@ -6,8 +6,12 @@ aliases: ["about-us","about-greg", "tag/greg-mcmullen", "blog/author/mcmullen-gr
 
 ---
 
-In August 2014 Greg joined the Office of Marketing and Communications staff at his alma mater, [Xavier University](http://www.xavier.edu) in Cincinnati, OH, as a web developer. The job has been a mix of [projects](/projects) so far with his first being a complete design overhaul of the Road to Xavier website, an admitted student portal. This project started on day one and had a quick deadline of October. With help from the team, the project has been a success.
+In April 2022 Greg joined the [University of Missouri - Kansas City](https://www.umkc.edu/) Strategic Marketing and Communications as Lead Web Developer. With prior experience within Cascade CMS, Greg hopes to provide support and continue growing the online experience for all facets of the UMKC website.
 
-Prior to joining Xavier University, Greg worked for Rose-Hulman Institute of Technology (Terre Haute, IN) as a web assistant and later a web manager. He had a lot of success in growing the social media presence on campus, with the biggest success story being aiding the president in his own social media campaign. Other projects included developing custom macros (for Umbraco: [Embedded Twitter Widget](http://bit.ly/1VWWgL1), [Form Wrangler](http://bit.ly/1SoVpUD)) and creating a new campus and alumni data map.
+Prior to joining UMKC, Greg spent time at his Alma Mater, [Xavier University](https://www.xavier.edu/) (Cincinnati, OH) where we ended his time as a Senior Web Developer. He helped write the overarching framework for the website back in 2019, which was still being utilized in 2022 and included an updated model for reaching prospective students. During his time at Xavier he presented twice at the HighEdWeb annual conference including Learning to C.O.P.E. (2016) and Searching for Direction (2015, co-presenter).
 
-Unique Home Solutions in Indianapolis, IN helped launch Greg on his career in web development. Initially, Greg was hired as an IT Professional but proved he was capable in providing marketing strategy and direction for online communications. He managed the website, set up social media marketing and took over email marketing initiatives.
+Before Xavier, Greg worked for [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu) (Terre Haute, IN) as a web assistant and later as a web manager. He developed custom macros for the CMS Umbraco which were later published on the OurUmbraco site and each received over 1,300 downloads.
+
+Unique Home Solutions in Indianapolis, IN helped launch Greg on his career in Web Development. Initially hired as an IT Professional, he proved he was capable in providing web marketing strategy and direction for online communications. He managed the website, social media and took over email marketing initiatives.
+
+Greg resides in Batesville, IN with his wife and three daughters. Outside of web development, he coaches two swimming programs (one recreational and one competitive high school) and earned his Master of Education in Coaching Education and Athlete Development in 2016.
