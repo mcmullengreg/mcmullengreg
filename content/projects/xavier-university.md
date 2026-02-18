@@ -1,6 +1,6 @@
 ---
 title: "Xavier University"
-date: 2020-11-6
+date: 2020-11-06
 excerpt: Selection of projects from working at Xavier University
 disableShare: true
 showToc: true

@@ -10,18 +10,19 @@ Below is a select list of projects that Greg is working on, or has worked on in 
 ## Active Projects
 
 * Swimming Projects
-  * Goal Tracking
-    - Developed with the goal of keeping Swim Goals close to the swimmer's vest
-    - Provides a basic race strategy and practice planning idea
-    - Allows athletes to dream big as well as set realistic goals
-
+  - None at this time.
+  
 * UMKC
   * Framework 2.0
     - Cleaning up the overall CMS architecture, infrastructure and providing direction for the front and backend
-  
+  * Program Finder
+    - A huge opportunity for students to be able to find their best program fit. Improved inquiries in the first 6 months from the predecessor, applications also increased.
     
 ## Past Projects
-
+* Goal Tracking (retired)
+  - Developed with the goal of keeping Swim Goals close to the swimmer's vest
+  - Provides a basic race strategy and practice planning idea
+  - Allows athletes to dream big as well as set realistic goals
 * [Xavier Univeristy](https://www.xavier.edu)
   * VueJS Developments
     - Distinguished Scholars: Will list out students from a form include, data hosted via CMS.
