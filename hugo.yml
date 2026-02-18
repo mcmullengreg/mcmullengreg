@@ -22,7 +22,7 @@ params:
   author: "Greg McMullen"
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "Jan 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
 
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/mcmullengreg/mcmullengreg/content"
+    URL: "https://github.com/mcmullengreg/mcmullengreg/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
