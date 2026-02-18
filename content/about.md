@@ -6,12 +6,92 @@ aliases: ["about-us","about-greg", "tag/greg-mcmullen", "blog/author/mcmullen-gr
 
 ---
 
-In April 2022 Greg joined the [University of Missouri - Kansas City](https://www.umkc.edu/) Strategic Marketing and Communications as Lead Web Developer. With prior experience within Cascade CMS, Greg hopes to provide support and continue growing the online experience for all facets of the UMKC website.
+## Husband. Father. Coach. Web Developer.
 
-Prior to joining UMKC, Greg spent time at his Alma Mater, [Xavier University](https://www.xavier.edu/) (Cincinnati, OH) where we ended his time as a Senior Web Developer. He helped write the overarching framework for the website back in 2019, which was still being utilized in 2022 and included an updated model for reaching prospective students. During his time at Xavier he presented twice at the HighEdWeb annual conference including Learning to C.O.P.E. (2016) and Searching for Direction (2015, co-presenter).
+Currently
+  •	Lead Web Developer, University of Missouri–Kansas City
+  •	Head Coach, Batesville Swimming
+  •	Board Member, Citizens Aquatic Center
 
-Before Xavier, Greg worked for [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu) (Terre Haute, IN) as a web assistant and later as a web manager. He developed custom macros for the CMS Umbraco which were later published on the OurUmbraco site and each received over 1,300 downloads.
+Those roles shape how I think, work, and lead.
 
-Unique Home Solutions in Indianapolis, IN helped launch Greg on his career in Web Development. Initially hired as an IT Professional, he proved he was capable in providing web marketing strategy and direction for online communications. He managed the website, social media and took over email marketing initiatives.
+At the center of all of it is purpose.
 
-Greg resides in Batesville, IN with his wife and three daughters. Outside of web development, he coaches two swimming programs (one recreational and one competitive high school) and earned his Master of Education in Coaching Education and Athlete Development in 2016.
+I’m driven by seeing potential — in people, in systems, and in organizations — and helping develop it with structure and intention.
+
+---
+
+## The Through Line
+
+Whether I’m building digital systems or coaching athletes, the work is similar:
+  •	Identify what’s possible
+  •	Clarify what’s misaligned
+  •	Build structure that supports growth
+  •	Develop people toward sustainable success
+
+I discovered web development early through a school camp where my mom worked. Traditional programming felt overwhelming, but web development clicked. It was structured, creative, and practical. Over time, that interest became a career built on refining systems, improving processes, and bridging technical and non-technical teams.
+
+Coaching came later — initially as something to do while my wife was in medical school. What began casually became deeply meaningful. It sharpened my leadership, strengthened my communication, and reinforced something I believe strongly:
+
+Strong systems and strong people are built the same way — intentionally.
+
+---
+
+## Professional Focus
+
+In my professional role, I focus on:
+  •	Building scalable and maintainable web systems
+  •	Improving workflows and governance
+  •	Thinking strategically about user experience
+  •	Translating complex technical concepts into clear communication
+
+*I value:*
+  •	Clean architecture over quick fixes
+  •	Long-term sustainability over short-term patches
+  •	Process clarity over unnecessary complexity
+
+I am comfortable leading projects, supporting teams, and working at the intersection of strategy and execution.
+
+While I’m content in my current role, I am always open to thoughtful conversations about building strong digital ecosystems and effective teams.
+
+---
+
+## Coaching & Leadership
+
+Coaching swimming has shaped my leadership as much as any professional role.
+
+I believe in developing people first and competitors second.
+
+I believe:
+  •	Winning is a byproduct.
+  •	Growth is the goal.
+  •	Quitting is the only true loss.
+  •	Character outlasts talent.
+
+Coaching has taught me how to manage expectations — both my own and others’. It has taught me how to balance empathy with accountability and how to maintain standards without losing humanity.
+
+My faith influences how I lead. I strive to lead with humility, clarity, and grace — knowing I fall short at times. I believe discipline and compassion can coexist.
+
+Above all, I care deeply about the people entrusted to me.
+
+---
+
+## Family & Foundation
+
+My family is my foundation.
+
+I don’t know who I’d be without my wife and children. They ground my decisions and remind me what matters most.
+
+Coaching and development are important to me — but my primary calling is at home.
+
+---
+
+## What Drives Me
+  •	Purpose over noise
+  •	Growth over ego
+  •	Consistency over intensity
+  •	Character over image
+
+If you’re here as a colleague, coach, or potential collaborator, I hope this gives you a clear picture of how I approach my work and leadership.
+
+I care about building things that last — whether that’s code, culture, or character.
