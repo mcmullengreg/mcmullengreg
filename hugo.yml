@@ -60,8 +60,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Greg McMullen"
-    # subtitle: "This is subtitle"
-    # imageUrl: "<img location>"
+    subtitle: "Husband. Father. Coach. Web Developer."
+    imageUrl: "/images/gm-photo.jpg"
     # imageWidth: 120
     # imageHeight: 120
     # imageTitle: my image
@@ -80,9 +80,11 @@ params:
     # - name: x
     #   url: "https://x.com/"
     # - name: stackoverflow
-    #   url: "https://stackoverflow.com"
+      # url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/mcmullengreg"
+    - name: "U.M.K.C. Profile"
+      url: "https://www.umkc.edu/mcom/profiles/greg-mcmullen.html"
 
   analytics:
     google:
