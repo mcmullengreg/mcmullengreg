@@ -5,17 +5,29 @@ date: "2021-04-09"
 excerpt: Greg McMullen's past, present and public projects.
 ---
 
-Below is a select list of projects that Greg is working on, or has worked on in the past.
+## My Code
+
+I build systems that work — not just look good.  
+I enjoy designing clean, maintainable solutions to messy real-world problems, and I prioritize clarity, collaboration, and long-term sustainability in everything I build.
+
+Most of the work below reflects projects where I led implementation or architectural decisions.
+
+## Technologies I Use Often
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Databases: MySQL, MariaDB
+- Tools: Git, Lando, NPM, Homebrew
 
 ## Active Projects
 
 * Swimming Projects
   - None at this time.
   
-* UMKC
+* (University of Missouri-Kansas City)[https://www.umkc.edu]
   * Framework 2.0
     - Cleaning up the overall CMS architecture, infrastructure and providing direction for the front and backend
-  * Program Finder
+  * (Program Finder)[https://programs.umkc.edu]
     - A huge opportunity for students to be able to find their best program fit. Improved inquiries in the first 6 months from the predecessor, applications also increased.
     
 ## Past Projects
@@ -23,7 +35,7 @@ Below is a select list of projects that Greg is working on, or has worked on in 
   - Developed with the goal of keeping Swim Goals close to the swimmer's vest
   - Provides a basic race strategy and practice planning idea
   - Allows athletes to dream big as well as set realistic goals
-* [Xavier Univeristy](https://www.xavier.edu)
+* [Xavier University](https://www.xavier.edu)
   * VueJS Developments
     - Distinguished Scholars: Will list out students from a form include, data hosted via CMS.
     - Vue Community Module: A refresh of an old PHP based script for our prospective
